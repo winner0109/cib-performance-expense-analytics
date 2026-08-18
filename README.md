@@ -49,7 +49,7 @@ Revenue reached **$197.7M**, finishing **$9.4M, or 4.5%, below plan**. Net contr
 
 **Management action:** Review pipeline conversion, execution timing, and fee realization in underperforming products.
 
-`screenshots/01_executive_overview.png`
+![Executive Overview](screenshots/01_executive_overview.png)
 
 ### 2. Client & Product Economics
 
@@ -59,7 +59,7 @@ Revenue reached **$197.7M**, finishing **$9.4M, or 4.5%, below plan**. Net contr
 
 **Management action:** Review client-product segments that combine negative variance with high capital usage.
 
-`screenshots/02_client_product_economics.png`
+![Client & Product Economics](screenshots/02_client_product_economics.png)
 
 ### 3. Expense Recovery
 
@@ -69,7 +69,7 @@ Revenue reached **$197.7M**, finishing **$9.4M, or 4.5%, below plan**. Net contr
 
 **Management action:** Introduce aging- and materiality-based escalation thresholds.
 
-`screenshots/03_expense_recovery.png`
+![Expense Recovery](screenshots/03_expense_recovery.png)
 
 ### 4. Data Quality
 
@@ -78,7 +78,7 @@ Revenue reached **$197.7M**, finishing **$9.4M, or 4.5%, below plan**. Net contr
 **Key insight:** 49 issues remained unresolved, including four critical items and $578.4K of financial differences.
 
 **Management action:** Establish owner-level remediation tracking, due dates, and escalation rules.
-`screenshots/04_data_quality.png`
+![Data Quality](screenshots/04_data_quality.png)
 
 ## Analytical Approach
 
