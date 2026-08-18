@@ -1,97 +1,97 @@
 # CIB Performance & Expense Analytics
 
-A synthetic **FY2025 CIB management-reporting case study** built in Power BI to analyze revenue performance, client and product economics, expense recovery, and data-quality risk. Notion link can be found here at https://app.notion.com/p/CIB-Performance-Expense-Analytics-Dashboard-3bce37fb14bc803d8b64e57f73eb35d3?source=copy_link
+*A synthetic CIB management-reporting solution for revenue performance, client and product economics, expense recovery, and data-quality risk.*
 
-**Power BI · DAX · Power Query · SQL · Excel**
+**Power BI · DAX · Power Query · SQL · Excel**  
+**Reporting period:** FY2025 · **Currency:** CAD
 
-[View dashboard PDF](docs/CIB_Performance_Expense_Analytics_FY2025.pdf) ·
-[Download Power BI file](powerbi/CIB_Performance_Expense_Analytics_FY2025.pbix) ·
-[Open source data](data/CIB_Performance_Expense_Analytics_Synthetic_Data.xlsx) ·
-[Read executive memo](docs/executive_memo.md)
+> **Synthetic-data disclosure**  
+> All clients, bankers, projects, vendors, issues, transactions, and financial results are fictional. This project contains no TD Bank, TD Securities, or other employer data.
 
-![Executive Overview](screenshots/01_executive_overview.png)
+## At a Glance
 
-> **Disclosure:** All clients, bankers, projects, vendors, issues, transactions, and financial results are fictional. This repository contains no TD Bank, TD Securities, or other employer data.
+**Business question**
 
-## FY2025 Executive Summary
+How can CIB management identify revenue underperformance, client and product concentration, expense-recovery leakage, and reporting-control risk from one consolidated view?
 
-| Metric | FY2025 Result |
+**Scope**
+
+| Item | Value |
 |---|---:|
-| Total Revenue | **$197.7M** |
-| Planned Revenue | **$207.0M** |
-| Variance to Plan | **($9.4M) / -4.5%** |
-| Total Expense | **$32.2M** |
-| Net Contribution | **$165.5M** |
-| Net Contribution Margin | **83.7%** |
-| Expense Recovery Rate | **84.8%** |
-| Unrecovered Expense | **$2.6M** |
-| Open / In-Remediation DQ Issues | **49** |
-| Open Critical DQ Issues | **4** |
-| Outstanding DQ Difference | **$578.4K** |
+| Reporting period | January-December 2025 |
+| Clients | 24 |
+| Products | 5 |
+| Regions | 4 |
+| Bankers | 12 |
+| Performance rows | 1,440 |
+| Expense-recovery records | 540 |
+| Data-quality issues | 120 |
 
-## Business Questions
+## FY2025 Headline
 
-1. Is revenue meeting management plan?
-2. Which clients, products, and regions drive performance?
-3. Where are contribution and capital concentrated?
-4. Which recoverable expenses remain outstanding or delayed?
-5. Which data-quality issues create the greatest reporting and control risk?
-6. What requires immediate management attention?
+Revenue reached **$197.7M**, finishing **$9.4M, or 4.5%, below plan**. Net contribution was **$165.5M**, expense recovery was **84.8%**, and **$2.6M** of recoverable expense remained outstanding.
 
 ## Key Findings
 
-- Revenue reached **$197.7M**, finishing **$9.4M, or 4.5%, below plan**.
 - **Equity Capital Markets** generated the largest negative product variance at approximately **$10.6M below plan**.
 - **Debt Capital Markets** exceeded plan by approximately **$4.1M**, partially offsetting ECM and Corporate Lending weakness.
-- The five largest clients generated **29.3%** of total revenue; **Pacific Hospitality** recorded the largest client-level shortfall at approximately **$1.5M**.
-- Expense recovery was **84.8%**, leaving **$2.6M** outstanding; **163** records were delayed by an average of **57.4 days**.
+- The five largest clients generated **29.3%** of total revenue.
+- **163** recovery records were delayed, with an average delay of **57.4 days**.
 - **49 of 120** DQ issues remained open or in remediation, including **four critical issues** and **$578.4K** of unresolved financial differences.
 
-## Dashboard Pages
+## Dashboard Walkthrough
 
 ### 1. Executive Overview
 
-Consolidates revenue, expense, net contribution, variance to plan, recovery, regional contribution, and management-attention items.
+**What it answers:** Are revenue, expense, contribution, and recovery meeting management expectations?
 
-![Executive Overview](screenshots/01_executive_overview.png)
+**Key insight:** Revenue was 4.5% below plan, with ECM producing the largest negative product variance.
+
+**Management action:** Review pipeline conversion, execution timing, and fee realization in underperforming products.
+
+**Insert image:** `screenshots/01_executive_overview.png`
 
 ### 2. Client & Product Economics
 
-Analyzes client concentration, product margin, capital usage, and underperforming client-product segments.
+**What it answers:** Where are revenue, contribution, and capital concentrated?
 
-![Client and Product Economics](screenshots/02_client_product_economics.png)
+**Key insight:** Top-five client concentration was 29.3%, while Pacific Hospitality recorded the largest client-level shortfall at approximately $1.5M.
+
+**Management action:** Review client-product segments that combine negative variance with high capital usage.
+
+**Insert image:** `screenshots/02_client_product_economics.png`
 
 ### 3. Expense Recovery
 
-Tracks incurred, recoverable, recovered, delayed, and unrecovered expense by client, project, product, and vendor.
+**What it answers:** Which recoverable expenses are delayed, outstanding, or concentrated?
 
-![Expense Recovery](screenshots/03_expense_recovery.png)
+**Key insight:** Recovery was 84.8%, leaving $2.6M outstanding; Northstar Energy had the largest client-level balance at approximately $300.7K.
+
+**Management action:** Introduce aging- and materiality-based escalation thresholds.
+
+**Insert image:** `screenshots/03_expense_recovery.png`
 
 ### 4. Data Quality
 
-Monitors issue type, source system, severity, status, financial differences, ownership, and remediation progress.
+**What it answers:** Which issues create the greatest reporting, reconciliation, and control risk?
 
-![Data Quality](screenshots/04_data_quality.png)
+**Key insight:** 49 issues remained unresolved, including four critical items and $578.4K of financial differences.
+
+**Management action:** Establish owner-level remediation tracking, due dates, and escalation rules.
+
+**Insert image:** `screenshots/04_data_quality.png`
+
+## Analytical Approach
+
+1. Generated a fully synthetic management-reporting dataset.
+2. Structured the model around three fact tables and four conformed dimensions.
+3. Cleaned and typed data in Power Query.
+4. Created DAX measures for revenue, variance, contribution, concentration, recovery, and DQ remediation.
+5. Built four management-oriented report pages.
+6. Validated headline measures against an independent summary table.
+7. Reproduced core investigations in SQL using CSV exports.
 
 ## Data Model
-
-```mermaid
-erDiagram
-    DIM_DATE ||--o{ FACT_PERFORMANCE : Month_Start
-    DIM_DATE ||--o{ FACT_EXPENSE_RECOVERY : Month_Start
-    DIM_DATE ||--o{ FACT_DQ_LOG : Month_Start
-
-    DIM_CLIENT ||--o{ FACT_PERFORMANCE : Client_ID
-    DIM_CLIENT ||--o{ FACT_EXPENSE_RECOVERY : Client_ID
-    DIM_CLIENT ||--o{ FACT_DQ_LOG : Client_ID
-
-    DIM_PRODUCT ||--o{ FACT_PERFORMANCE : Product_ID
-    DIM_PRODUCT ||--o{ FACT_EXPENSE_RECOVERY : Product_ID
-
-    DIM_BANKER ||--o{ FACT_PERFORMANCE : Banker_ID
-```
-
-The model uses three fact tables and four conformed dimensions:
 
 - `Fact_Performance`
 - `Fact_Expense_Recovery`
@@ -100,6 +100,32 @@ The model uses three fact tables and four conformed dimensions:
 - `Dim_Client`
 - `Dim_Product`
 - `Dim_Banker`
+
+**Insert image:** Power BI Model view screenshot, or embed the Mermaid diagram from the GitHub README.
+<img width="1453" height="942" alt="05_Model" src="https://github.com/user-attachments/assets/25b53b5d-0ff9-43db-8994-c7690927819f" />
+
+
+## Recommendations
+
+1. Investigate the ECM shortfall by client, pipeline stage, execution timing, and fee realization.
+2. Apply aging and materiality thresholds to expense-recovery escalation.
+3. Review capital usage together with revenue, contribution, risk, and strategic relationship value.
+4. Introduce weekly tracking for critical and high-severity DQ issues.
+5. Reconcile material source-system differences before management-report publication.
+
+## Limitations
+
+- The dataset is fully synthetic.
+- Net contribution is not full economic profit.
+- Capital usage is simplified and does not represent regulatory or risk-adjusted capital.
+- The DQ table is an issue log rather than a complete tested population.
+- Recovery aging uses a static reporting as-of date.
+
+## Project Links
+
+- **GitHub repository:** add your public GitHub URL
+- **Power BI file:** link to `powerbi/CIB_Performance_Expense_Analytics_FY2025.pbix`
+- **Dashboard PDF:** link to `docs/CIB_Performance_Expense_Analytics_FY2025.pdf`
 
 See the [data dictionary](docs/data_dictionary.md).
 
