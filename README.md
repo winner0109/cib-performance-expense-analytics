@@ -1,6 +1,6 @@
 # CIB Performance & Expense Analytics
 
-A synthetic **FY2025 CIB management-reporting case study** built in Power BI to analyze revenue performance, client and product economics, expense recovery, and data-quality risk.
+A synthetic **FY2025 CIB management-reporting case study** built in Power BI to analyze revenue performance, client and product economics, expense recovery, and data-quality risk. Notion link can be found here at https://app.notion.com/p/CIB-Performance-Expense-Analytics-Dashboard-3bce37fb14bc803d8b64e57f73eb35d3?source=copy_link
 
 **Power BI · DAX · Power Query · SQL · Excel**
 
