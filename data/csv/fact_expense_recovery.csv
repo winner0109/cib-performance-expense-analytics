@@ -1,0 +1,541 @@
+Expense_ID,Expense_Date,Recovery_Due_Date,Recovery_Date,Client_ID,Client,Project_ID,Project,Product_ID,Product,Vendor,Expense_Type,Incurred_Expense_CAD,Recoverable_Expense_CAD,Recovered_Expense_CAD,Unrecovered_Expense_CAD,Recovery_Status,Days_Delayed
+E000001,2025-01-01,2025-02-15,2025-02-03,C018,Silverline Insurance,PRJ052,Project Pioneer-52,P02,Debt Capital Markets,Intralinks,Data Room,23000,21900,21900,0,Recovered,0
+E000002,2025-01-28,2025-03-23,2025-03-13,C022,Beacon Education Group,PRJ064,Project Compass-64,P05,Treasury & Risk Solutions,KPMG,Due Diligence,37800,37200,37200,0,Recovered,0
+E000003,2025-01-16,2025-03-15,2025-02-28,C016,Nova Retail Holdings,PRJ047,Project Juniper-47,P04,Corporate Lending,Intralinks,Data Room,32400,27600,27600,0,Recovered,0
+E000004,2025-01-27,2025-03-21,2025-03-10,C018,Silverline Insurance,PRJ054,Project Trillium-54,P05,Treasury & Risk Solutions,Norton Rose Fulbright,Legal Advisory,11500,10900,10900,0,Recovered,0
+E000005,2025-01-22,2025-02-21,2025-02-11,C022,Beacon Education Group,PRJ065,Project Falcon-65,P04,Corporate Lending,PwC,Due Diligence,48800,48700,48700,0,Recovered,0
+E000006,2025-01-08,2025-02-22,2025-02-19,C011,Polar Data Systems,PRJ033,Project Summit-33,P01,M&A Advisory,S&P Capital IQ,Market Data,48400,11800,11800,0,Recovered,0
+E000007,2025-01-25,2025-03-14,2025-03-18,C001,Northstar Energy,PRJ002,Project Beacon-02,P02,Debt Capital Markets,Intralinks,Data Room,115800,103700,59300,44400,Partially Recovered,4
+E000008,2025-01-12,2025-02-15,2025-02-14,C009,Atlas Logistics,PRJ026,Project Harbour-26,P04,Corporate Lending,LSEG Workspace,Market Data,3900,1300,1300,0,Recovered,0
+E000009,2025-01-20,2025-03-02,2025-03-07,C003,Maple Health Systems,PRJ007,Project Juniper-07,P01,M&A Advisory,AlphaSense,External Research,19100,12400,7100,5300,Partially Recovered,5
+E000010,2025-01-16,2025-02-26,2025-02-10,C014,Harbour Real Estate,PRJ042,Project Beacon-42,P01,M&A Advisory,Corporate Travel Services,Travel & Meetings,81000,33900,33900,0,Recovered,0
+E000011,2025-01-07,2025-02-19,2025-02-15,C013,Meridian Pharma,PRJ039,Project Cascade-39,P05,Treasury & Risk Solutions,Corporate Travel Services,Travel & Meetings,34100,12500,12500,0,Recovered,0
+E000012,2025-01-07,2025-02-13,2025-02-11,C016,Nova Retail Holdings,PRJ048,Project Maple-48,P01,M&A Advisory,Corporate Travel Services,Travel & Meetings,33200,18500,18500,0,Recovered,0
+E000013,2025-01-04,2025-02-08,2025-04-08,C024,Pacific Hospitality,PRJ070,Project Northstar-70,P02,Debt Capital Markets,S&P Capital IQ,Market Data,40800,8600,5500,3100,Delayed,59
+E000014,2025-01-14,2025-02-26,,C015,Titan Aerospace,PRJ043,Project Cedar-43,P03,Equity Capital Markets,S&P Capital IQ,Market Data,21700,5100,0,5100,Unrecovered,339
+E000015,2025-01-27,2025-03-22,2025-03-09,C002,Aurora Mobility,PRJ006,Project Harbour-06,P03,Equity Capital Markets,KPMG,Due Diligence,35000,29000,29000,0,Recovered,0
+E000016,2025-01-04,2025-02-21,2025-03-01,C014,Harbour Real Estate,PRJ041,Project Aurora-41,P01,M&A Advisory,TravelCo,Travel & Meetings,55700,29700,14900,14800,Partially Recovered,8
+E000017,2025-01-09,2025-02-12,2025-02-08,C004,Horizon Telecom,PRJ011,Project Orion-11,P01,M&A Advisory,EY,Due Diligence,42100,32300,32300,0,Recovered,0
+E000018,2025-01-31,2025-03-12,2025-02-23,C013,Meridian Pharma,PRJ038,Project Boreal-38,P01,M&A Advisory,DataRoom Inc.,Data Room,71700,68600,68600,0,Recovered,0
+E000019,2025-01-01,2025-02-15,2025-01-31,C003,Maple Health Systems,PRJ007,Project Juniper-07,P05,Treasury & Risk Solutions,Third Bridge,External Research,7200,5300,5300,0,Recovered,0
+E000020,2025-01-07,2025-02-25,2025-03-14,C021,Trillium Utilities,PRJ063,Project Cedar-63,P01,M&A Advisory,Guidepoint,External Research,47600,29500,24200,5300,Partially Recovered,17
+E000021,2025-01-06,2025-02-21,2025-02-08,C006,Summit Mining,PRJ017,Project Atlas-17,P04,Corporate Lending,S&P Capital IQ,Market Data,102000,25200,25200,0,Recovered,0
+E000022,2025-01-12,2025-02-13,2025-02-01,C021,Trillium Utilities,PRJ062,Project Beacon-62,P03,Equity Capital Markets,DataRoom Inc.,Data Room,28700,25500,25500,0,Recovered,0
+E000023,2025-01-09,2025-02-08,2025-01-31,C008,Greenfield Renewables,PRJ024,Project Compass-24,P03,Equity Capital Markets,DataRoom Inc.,Data Room,83500,81400,81400,0,Recovered,0
+E000024,2025-01-04,2025-02-22,2025-02-19,C014,Harbour Real Estate,PRJ042,Project Beacon-42,P01,M&A Advisory,AlphaSense,External Research,55800,37700,37700,0,Recovered,0
+E000025,2025-01-23,2025-03-14,2025-02-25,C016,Nova Retail Holdings,PRJ048,Project Maple-48,P02,Debt Capital Markets,EY,Due Diligence,38900,31100,31100,0,Recovered,0
+E000026,2025-01-23,2025-03-03,2025-02-25,C004,Horizon Telecom,PRJ010,Project Northstar-10,P05,Treasury & Risk Solutions,Latham & Watkins,Legal Advisory,57600,50800,50800,0,Recovered,0
+E000027,2025-01-10,2025-03-07,2025-02-22,C010,Cedar Financial Group,PRJ029,Project Meridian-29,P03,Equity Capital Markets,Bloomberg,Market Data,20600,7100,7100,0,Recovered,0
+E000028,2025-01-13,2025-02-16,2025-02-02,C014,Harbour Real Estate,PRJ042,Project Beacon-42,P05,Treasury & Risk Solutions,Third Bridge,External Research,76100,56100,56100,0,Recovered,0
+E000029,2025-01-26,2025-03-04,2025-03-03,C016,Nova Retail Holdings,PRJ046,Project Harbour-46,P05,Treasury & Risk Solutions,EY,Due Diligence,41900,33500,33500,0,Recovered,0
+E000030,2025-01-19,2025-03-19,2025-04-18,C008,Greenfield Renewables,PRJ023,Project Cedar-23,P04,Corporate Lending,LSEG Workspace,Market Data,84800,10800,4500,6300,Delayed,30
+E000031,2025-01-27,2025-03-17,2025-03-12,C023,Keystone Agriculture,PRJ069,Project Meridian-69,P05,Treasury & Risk Solutions,KPMG,Due Diligence,27800,27000,27000,0,Recovered,0
+E000032,2025-01-15,2025-03-03,2025-02-28,C010,Cedar Financial Group,PRJ030,Project Northstar-30,P04,Corporate Lending,LSEG Workspace,Market Data,113100,18700,18700,0,Recovered,0
+E000033,2025-01-06,2025-02-12,2025-02-08,C006,Summit Mining,PRJ016,Project Willow-16,P04,Corporate Lending,Datasite,Data Room,17700,15200,15200,0,Recovered,0
+E000034,2025-01-03,2025-02-25,2025-02-13,C003,Maple Health Systems,PRJ009,Project Meridian-09,P04,Corporate Lending,Guidepoint,External Research,32400,22700,22700,0,Recovered,0
+E000035,2025-01-04,2025-02-17,2025-02-06,C018,Silverline Insurance,PRJ053,Project Summit-53,P03,Equity Capital Markets,TravelCo,Travel & Meetings,47500,17000,17000,0,Recovered,0
+E000036,2025-01-23,2025-02-28,2025-02-27,C021,Trillium Utilities,PRJ062,Project Beacon-62,P02,Debt Capital Markets,DataRoom Inc.,Data Room,54100,48800,48800,0,Recovered,0
+E000037,2025-01-24,2025-03-16,2025-03-08,C008,Greenfield Renewables,PRJ022,Project Beacon-22,P02,Debt Capital Markets,Osler,Legal Advisory,22700,21300,21300,0,Recovered,0
+E000038,2025-01-05,2025-02-18,2025-02-10,C024,Pacific Hospitality,PRJ072,Project Pioneer-72,P02,Debt Capital Markets,TravelCo,Travel & Meetings,12400,4000,4000,0,Recovered,0
+E000039,2025-01-21,2025-03-19,2025-06-07,C022,Beacon Education Group,PRJ066,Project Harbour-66,P03,Equity Capital Markets,KPMG,Due Diligence,11700,11100,5100,6000,Delayed,80
+E000040,2025-01-16,2025-02-20,2025-03-08,C015,Titan Aerospace,PRJ045,Project Falcon-45,P02,Debt Capital Markets,TravelCo,Travel & Meetings,25200,14600,11700,2900,Partially Recovered,16
+E000041,2025-01-13,2025-02-21,2025-02-06,C009,Atlas Logistics,PRJ026,Project Harbour-26,P04,Corporate Lending,KPMG,Due Diligence,63100,53300,53300,0,Recovered,0
+E000042,2025-01-03,2025-02-02,2025-01-17,C024,Pacific Hospitality,PRJ070,Project Northstar-70,P01,M&A Advisory,TravelCo,Travel & Meetings,10600,3600,3600,0,Recovered,0
+E000043,2025-01-05,2025-03-03,,C003,Maple Health Systems,PRJ008,Project Maple-08,P02,Debt Capital Markets,Third Bridge,External Research,16300,10600,0,10600,Unrecovered,334
+E000044,2025-01-06,2025-02-25,2025-02-16,C008,Greenfield Renewables,PRJ023,Project Cedar-23,P01,M&A Advisory,Deloitte,Due Diligence,94700,73400,73400,0,Recovered,0
+E000045,2025-01-16,2025-02-18,2025-02-04,C017,Boreal Resources,PRJ050,Project Northstar-50,P05,Treasury & Risk Solutions,TravelCo,Travel & Meetings,22900,8400,8400,0,Recovered,0
+E000046,2025-02-09,2025-03-25,2025-03-21,C016,Nova Retail Holdings,PRJ046,Project Harbour-46,P01,M&A Advisory,Bloomberg,Market Data,22900,5700,5700,0,Recovered,0
+E000047,2025-02-11,2025-03-30,2025-03-25,C003,Maple Health Systems,PRJ007,Project Juniper-07,P05,Treasury & Risk Solutions,KPMG,Due Diligence,82500,80700,80700,0,Recovered,0
+E000048,2025-02-13,2025-03-17,2025-03-05,C002,Aurora Mobility,PRJ005,Project Falcon-05,P03,Equity Capital Markets,DataRoom Inc.,Data Room,90600,80100,80100,0,Recovered,0
+E000049,2025-02-21,2025-03-30,2025-03-18,C018,Silverline Insurance,PRJ054,Project Trillium-54,P02,Debt Capital Markets,Bloomberg,Market Data,30900,3300,3300,0,Recovered,0
+E000050,2025-02-02,2025-03-27,2025-03-27,C009,Atlas Logistics,PRJ026,Project Harbour-26,P01,M&A Advisory,Intralinks,Data Room,58000,52100,52100,0,Recovered,0
+E000051,2025-02-16,2025-03-23,2025-03-05,C021,Trillium Utilities,PRJ062,Project Beacon-62,P04,Corporate Lending,Guidepoint,External Research,7100,3700,3700,0,Recovered,0
+E000052,2025-02-27,2025-04-05,2025-03-18,C011,Polar Data Systems,PRJ033,Project Summit-33,P04,Corporate Lending,Third Bridge,External Research,77700,40100,40100,0,Recovered,0
+E000053,2025-02-22,2025-04-14,2025-04-24,C004,Horizon Telecom,PRJ011,Project Orion-11,P01,M&A Advisory,Third Bridge,External Research,13900,10200,7600,2600,Partially Recovered,10
+E000054,2025-02-18,2025-04-03,2025-03-23,C008,Greenfield Renewables,PRJ023,Project Cedar-23,P04,Corporate Lending,EY,Due Diligence,86900,77100,77100,0,Recovered,0
+E000055,2025-02-02,2025-03-29,2025-04-09,C016,Nova Retail Holdings,PRJ048,Project Maple-48,P04,Corporate Lending,Third Bridge,External Research,23700,17600,9400,8200,Partially Recovered,11
+E000056,2025-02-02,2025-03-22,2025-03-19,C007,BlueWave Infrastructure,PRJ020,Project Glacier-20,P05,Treasury & Risk Solutions,Bloomberg,Market Data,96800,21900,21900,0,Recovered,0
+E000057,2025-02-03,2025-03-10,2025-03-17,C008,Greenfield Renewables,PRJ022,Project Beacon-22,P03,Equity Capital Markets,Datasite,Data Room,72700,63500,49700,13800,Partially Recovered,7
+E000058,2025-02-02,2025-03-20,2025-03-14,C002,Aurora Mobility,PRJ006,Project Harbour-06,P05,Treasury & Risk Solutions,TravelCo,Travel & Meetings,51500,15800,15800,0,Recovered,0
+E000059,2025-02-23,2025-04-13,2025-04-12,C007,BlueWave Infrastructure,PRJ021,Project Aurora-21,P02,Debt Capital Markets,EY,Due Diligence,58200,51100,51100,0,Recovered,0
+E000060,2025-02-02,2025-03-19,2025-03-08,C005,Cascade Consumer Brands,PRJ014,Project Trillium-14,P02,Debt Capital Markets,Datasite,Data Room,80300,76700,76700,0,Recovered,0
+E000061,2025-02-28,2025-04-01,2025-03-21,C008,Greenfield Renewables,PRJ024,Project Compass-24,P05,Treasury & Risk Solutions,Datasite,Data Room,84000,75600,75600,0,Recovered,0
+E000062,2025-02-01,2025-03-20,2025-03-15,C022,Beacon Education Group,PRJ065,Project Falcon-65,P02,Debt Capital Markets,Intralinks,Data Room,43800,39300,39300,0,Recovered,0
+E000063,2025-02-19,2025-04-01,2025-04-19,C020,Glacier Manufacturing,PRJ058,Project Boreal-58,P05,Treasury & Risk Solutions,Corporate Travel Services,Travel & Meetings,64300,33300,25800,7500,Partially Recovered,18
+E000064,2025-02-15,2025-04-11,2025-04-05,C021,Trillium Utilities,PRJ062,Project Beacon-62,P03,Equity Capital Markets,AlphaSense,External Research,55500,39100,39100,0,Recovered,0
+E000065,2025-02-04,2025-03-23,2025-03-21,C016,Nova Retail Holdings,PRJ046,Project Harbour-46,P02,Debt Capital Markets,Latham & Watkins,Legal Advisory,35900,29100,29100,0,Recovered,0
+E000066,2025-02-10,2025-03-24,2025-03-16,C010,Cedar Financial Group,PRJ028,Project Maple-28,P02,Debt Capital Markets,TravelCo,Travel & Meetings,119200,33300,33300,0,Recovered,0
+E000067,2025-02-17,2025-04-14,,C015,Titan Aerospace,PRJ044,Project Compass-44,P02,Debt Capital Markets,LSEG Workspace,Market Data,6300,900,0,900,Unrecovered,292
+E000068,2025-02-01,2025-03-07,2025-02-19,C010,Cedar Financial Group,PRJ029,Project Meridian-29,P01,M&A Advisory,AlphaSense,External Research,51100,31600,31600,0,Recovered,0
+E000069,2025-02-20,2025-04-16,2025-04-23,C005,Cascade Consumer Brands,PRJ015,Project Vertex-15,P05,Treasury & Risk Solutions,PwC,Due Diligence,74600,60600,41600,19000,Partially Recovered,7
+E000070,2025-02-16,2025-03-21,2025-03-13,C003,Maple Health Systems,PRJ008,Project Maple-08,P01,M&A Advisory,EY,Due Diligence,7400,5900,5900,0,Recovered,0
+E000071,2025-02-27,2025-04-25,2025-04-12,C007,BlueWave Infrastructure,PRJ019,Project Cascade-19,P02,Debt Capital Markets,Osler,Legal Advisory,42700,35500,35500,0,Recovered,0
+E000072,2025-02-08,2025-03-15,2025-02-27,C001,Northstar Energy,PRJ001,Project Aurora-01,P01,M&A Advisory,Bloomberg,Market Data,31800,3300,3300,0,Recovered,0
+E000073,2025-02-06,2025-03-28,2025-03-26,C006,Summit Mining,PRJ018,Project Boreal-18,P04,Corporate Lending,Datasite,Data Room,19900,19600,19600,0,Recovered,0
+E000074,2025-02-26,2025-04-15,2025-04-26,C007,BlueWave Infrastructure,PRJ021,Project Aurora-21,P05,Treasury & Risk Solutions,EY,Due Diligence,8800,7400,4400,3000,Partially Recovered,11
+E000075,2025-02-01,2025-03-25,2025-06-09,C019,Redwood Media,PRJ055,Project Vertex-55,P02,Debt Capital Markets,Latham & Watkins,Legal Advisory,34700,34300,12100,22200,Delayed,76
+E000076,2025-02-28,2025-04-21,2025-04-12,C008,Greenfield Renewables,PRJ023,Project Cedar-23,P03,Equity Capital Markets,Guidepoint,External Research,114800,76600,76600,0,Recovered,0
+E000077,2025-02-04,2025-03-07,2025-03-26,C019,Redwood Media,PRJ057,Project Atlas-57,P03,Equity Capital Markets,PwC,Due Diligence,35300,30400,19900,10500,Partially Recovered,19
+E000078,2025-02-04,2025-03-13,2025-02-27,C001,Northstar Energy,PRJ002,Project Beacon-02,P05,Treasury & Risk Solutions,TravelCo,Travel & Meetings,59100,22000,22000,0,Recovered,0
+E000079,2025-02-24,2025-03-30,2025-05-20,C003,Maple Health Systems,PRJ009,Project Meridian-09,P05,Treasury & Risk Solutions,EY,Due Diligence,38500,35100,11100,24000,Delayed,51
+E000080,2025-02-19,2025-04-19,2025-05-29,C017,Boreal Resources,PRJ049,Project Meridian-49,P01,M&A Advisory,Norton Rose Fulbright,Legal Advisory,70100,60300,14300,46000,Delayed,40
+E000081,2025-02-12,2025-04-10,2025-03-28,C011,Polar Data Systems,PRJ031,Project Orion-31,P03,Equity Capital Markets,EY,Due Diligence,4900,3700,3700,0,Recovered,0
+E000082,2025-02-25,2025-04-17,2025-04-20,C010,Cedar Financial Group,PRJ028,Project Maple-28,P04,Corporate Lending,Corporate Travel Services,Travel & Meetings,57000,15400,12100,3300,Partially Recovered,3
+E000083,2025-02-24,2025-04-21,,C004,Horizon Telecom,PRJ011,Project Orion-11,P04,Corporate Lending,AlphaSense,External Research,68200,42400,0,42400,Unrecovered,285
+E000084,2025-02-22,2025-04-11,2025-04-20,C005,Cascade Consumer Brands,PRJ013,Project Summit-13,P02,Debt Capital Markets,Intralinks,Data Room,31100,30500,19800,10700,Partially Recovered,9
+E000085,2025-02-08,2025-03-22,,C013,Meridian Pharma,PRJ038,Project Boreal-38,P04,Corporate Lending,DataRoom Inc.,Data Room,30800,30000,0,30000,Unrecovered,315
+E000086,2025-02-23,2025-04-18,2025-04-07,C010,Cedar Financial Group,PRJ030,Project Northstar-30,P03,Equity Capital Markets,AlphaSense,External Research,52700,26700,26700,0,Recovered,0
+E000087,2025-02-06,2025-03-12,2025-02-23,C004,Horizon Telecom,PRJ011,Project Orion-11,P04,Corporate Lending,LSEG Workspace,Market Data,89300,18300,18300,0,Recovered,0
+E000088,2025-02-24,2025-04-24,,C024,Pacific Hospitality,PRJ071,Project Orion-71,P03,Equity Capital Markets,Datasite,Data Room,45200,40400,0,40400,Unrecovered,282
+E000089,2025-02-09,2025-03-14,2025-03-07,C004,Horizon Telecom,PRJ012,Project Pioneer-12,P03,Equity Capital Markets,Guidepoint,External Research,100500,52800,52800,0,Recovered,0
+E000090,2025-02-27,2025-04-22,2025-04-17,C021,Trillium Utilities,PRJ061,Project Aurora-61,P03,Equity Capital Markets,DataRoom Inc.,Data Room,3300,3100,3100,0,Recovered,0
+E000091,2025-03-13,2025-04-22,2025-04-04,C020,Glacier Manufacturing,PRJ058,Project Boreal-58,P05,Treasury & Risk Solutions,Third Bridge,External Research,37400,21600,21600,0,Recovered,0
+E000092,2025-03-03,2025-04-14,2025-03-31,C002,Aurora Mobility,PRJ004,Project Compass-04,P02,Debt Capital Markets,KPMG,Due Diligence,87900,77700,77700,0,Recovered,0
+E000093,2025-03-07,2025-04-12,2025-03-29,C005,Cascade Consumer Brands,PRJ014,Project Trillium-14,P04,Corporate Lending,S&P Capital IQ,Market Data,33200,8500,8500,0,Recovered,0
+E000094,2025-03-19,2025-05-10,2025-05-01,C013,Meridian Pharma,PRJ038,Project Boreal-38,P01,M&A Advisory,Osler,Legal Advisory,48400,42300,42300,0,Recovered,0
+E000095,2025-03-02,2025-04-13,2025-03-29,C003,Maple Health Systems,PRJ007,Project Juniper-07,P02,Debt Capital Markets,TravelCo,Travel & Meetings,75000,23300,23300,0,Recovered,0
+E000096,2025-03-04,2025-04-04,2025-03-22,C005,Cascade Consumer Brands,PRJ014,Project Trillium-14,P01,M&A Advisory,Intralinks,Data Room,66100,61700,61700,0,Recovered,0
+E000097,2025-03-24,2025-04-28,2025-04-12,C010,Cedar Financial Group,PRJ029,Project Meridian-29,P01,M&A Advisory,Guidepoint,External Research,119400,70900,70900,0,Recovered,0
+E000098,2025-03-14,2025-05-08,2025-04-29,C019,Redwood Media,PRJ056,Project Willow-56,P04,Corporate Lending,Osler,Legal Advisory,39500,31900,31900,0,Recovered,0
+E000099,2025-03-09,2025-04-26,2025-04-10,C021,Trillium Utilities,PRJ062,Project Beacon-62,P04,Corporate Lending,Deloitte,Due Diligence,47300,46400,46400,0,Recovered,0
+E000100,2025-03-30,2025-05-25,2025-05-09,C021,Trillium Utilities,PRJ062,Project Beacon-62,P01,M&A Advisory,Corporate Travel Services,Travel & Meetings,25200,6700,6700,0,Recovered,0
+E000101,2025-03-09,2025-04-18,2025-06-12,C002,Aurora Mobility,PRJ005,Project Falcon-05,P03,Equity Capital Markets,Intralinks,Data Room,37000,36000,8400,27600,Delayed,55
+E000102,2025-03-05,2025-04-18,2025-04-03,C001,Northstar Energy,PRJ001,Project Aurora-01,P05,Treasury & Risk Solutions,Bloomberg,Market Data,89300,28100,28100,0,Recovered,0
+E000103,2025-03-08,2025-04-19,2025-04-07,C009,Atlas Logistics,PRJ026,Project Harbour-26,P04,Corporate Lending,Bloomberg,Market Data,10700,1800,1800,0,Recovered,0
+E000104,2025-03-03,2025-04-18,2025-04-08,C011,Polar Data Systems,PRJ031,Project Orion-31,P05,Treasury & Risk Solutions,KPMG,Due Diligence,71300,67900,67900,0,Recovered,0
+E000105,2025-03-01,2025-04-09,2025-03-25,C007,BlueWave Infrastructure,PRJ020,Project Glacier-20,P01,M&A Advisory,Deloitte,Due Diligence,39600,34000,34000,0,Recovered,0
+E000106,2025-03-18,2025-04-23,2025-04-10,C021,Trillium Utilities,PRJ061,Project Aurora-61,P05,Treasury & Risk Solutions,Intralinks,Data Room,26500,22600,22600,0,Recovered,0
+E000107,2025-03-25,2025-05-23,2025-05-11,C005,Cascade Consumer Brands,PRJ013,Project Summit-13,P02,Debt Capital Markets,TravelCo,Travel & Meetings,54500,21300,21300,0,Recovered,0
+E000108,2025-03-21,2025-04-24,2025-04-15,C003,Maple Health Systems,PRJ009,Project Meridian-09,P02,Debt Capital Markets,Norton Rose Fulbright,Legal Advisory,49400,40400,40400,0,Recovered,0
+E000109,2025-03-10,2025-05-08,2025-06-01,C010,Cedar Financial Group,PRJ029,Project Meridian-29,P05,Treasury & Risk Solutions,EY,Due Diligence,29300,26700,5800,20900,Delayed,24
+E000110,2025-03-19,2025-04-29,2025-07-12,C019,Redwood Media,PRJ057,Project Atlas-57,P02,Debt Capital Markets,Deloitte,Due Diligence,5500,4500,900,3600,Delayed,74
+E000111,2025-03-03,2025-04-09,2025-04-17,C008,Greenfield Renewables,PRJ023,Project Cedar-23,P02,Debt Capital Markets,Osler,Legal Advisory,70200,58200,50600,7600,Partially Recovered,8
+E000112,2025-03-02,2025-04-15,2025-04-07,C015,Titan Aerospace,PRJ044,Project Compass-44,P01,M&A Advisory,PwC,Due Diligence,104400,100900,100900,0,Recovered,0
+E000113,2025-03-14,2025-05-06,2025-04-23,C021,Trillium Utilities,PRJ061,Project Aurora-61,P01,M&A Advisory,TravelCo,Travel & Meetings,16000,6500,6500,0,Recovered,0
+E000114,2025-03-22,2025-04-21,2025-04-04,C019,Redwood Media,PRJ057,Project Atlas-57,P05,Treasury & Risk Solutions,S&P Capital IQ,Market Data,16200,2500,2500,0,Recovered,0
+E000115,2025-03-02,2025-04-10,2025-03-31,C018,Silverline Insurance,PRJ054,Project Trillium-54,P04,Corporate Lending,AlphaSense,External Research,8000,4900,4900,0,Recovered,0
+E000116,2025-03-20,2025-04-26,,C023,Keystone Agriculture,PRJ067,Project Juniper-67,P02,Debt Capital Markets,LSEG Workspace,Market Data,43900,7300,0,7300,Unrecovered,280
+E000117,2025-03-11,2025-04-25,2025-04-07,C023,Keystone Agriculture,PRJ067,Project Juniper-67,P01,M&A Advisory,TravelCo,Travel & Meetings,36900,10400,10400,0,Recovered,0
+E000118,2025-03-07,2025-04-14,,C022,Beacon Education Group,PRJ066,Project Harbour-66,P01,M&A Advisory,LSEG Workspace,Market Data,8200,2200,0,2200,Unrecovered,292
+E000119,2025-03-09,2025-05-08,2025-04-22,C019,Redwood Media,PRJ057,Project Atlas-57,P05,Treasury & Risk Solutions,Latham & Watkins,Legal Advisory,34900,28800,28800,0,Recovered,0
+E000120,2025-03-06,2025-04-13,2025-04-10,C017,Boreal Resources,PRJ051,Project Orion-51,P02,Debt Capital Markets,Osler,Legal Advisory,37700,36600,36600,0,Recovered,0
+E000121,2025-03-24,2025-05-08,2025-05-03,C013,Meridian Pharma,PRJ038,Project Boreal-38,P02,Debt Capital Markets,Third Bridge,External Research,25000,20200,20200,0,Recovered,0
+E000122,2025-03-24,2025-05-17,2025-05-13,C019,Redwood Media,PRJ057,Project Atlas-57,P04,Corporate Lending,Intralinks,Data Room,17000,15400,15400,0,Recovered,0
+E000123,2025-03-26,2025-05-22,2025-07-15,C017,Boreal Resources,PRJ051,Project Orion-51,P02,Debt Capital Markets,Norton Rose Fulbright,Legal Advisory,82600,68200,35000,33200,Delayed,54
+E000124,2025-03-19,2025-04-25,2025-04-24,C012,Evergreen Foods,PRJ034,Project Trillium-34,P05,Treasury & Risk Solutions,Guidepoint,External Research,59800,45500,45500,0,Recovered,0
+E000125,2025-03-03,2025-04-03,2025-03-22,C024,Pacific Hospitality,PRJ071,Project Orion-71,P05,Treasury & Risk Solutions,Third Bridge,External Research,28600,17500,17500,0,Recovered,0
+E000126,2025-03-21,2025-04-21,2025-04-28,C022,Beacon Education Group,PRJ066,Project Harbour-66,P04,Corporate Lending,PwC,Due Diligence,23200,22000,16500,5500,Partially Recovered,7
+E000127,2025-03-31,2025-05-23,,C015,Titan Aerospace,PRJ044,Project Compass-44,P04,Corporate Lending,Datasite,Data Room,24500,22200,0,22200,Unrecovered,253
+E000128,2025-03-14,2025-04-29,2025-05-08,C003,Maple Health Systems,PRJ009,Project Meridian-09,P01,M&A Advisory,DataRoom Inc.,Data Room,50200,42900,22700,20200,Partially Recovered,9
+E000129,2025-03-04,2025-04-27,,C014,Harbour Real Estate,PRJ040,Project Glacier-40,P05,Treasury & Risk Solutions,LSEG Workspace,Market Data,43000,14100,0,14100,Unrecovered,279
+E000130,2025-03-26,2025-05-19,2025-05-04,C020,Glacier Manufacturing,PRJ058,Project Boreal-58,P05,Treasury & Risk Solutions,TravelCo,Travel & Meetings,60800,33400,33400,0,Recovered,0
+E000131,2025-03-27,2025-05-05,2025-07-21,C017,Boreal Resources,PRJ051,Project Orion-51,P02,Debt Capital Markets,Latham & Watkins,Legal Advisory,26200,24400,10400,14000,Delayed,77
+E000132,2025-03-27,2025-05-11,2025-05-30,C011,Polar Data Systems,PRJ031,Project Orion-31,P02,Debt Capital Markets,Norton Rose Fulbright,Legal Advisory,8100,7400,4000,3400,Partially Recovered,19
+E000133,2025-03-20,2025-05-17,2025-05-08,C019,Redwood Media,PRJ057,Project Atlas-57,P04,Corporate Lending,Norton Rose Fulbright,Legal Advisory,45200,41800,41800,0,Recovered,0
+E000134,2025-03-03,2025-04-27,2025-04-19,C009,Atlas Logistics,PRJ027,Project Juniper-27,P01,M&A Advisory,AlphaSense,External Research,71600,57700,57700,0,Recovered,0
+E000135,2025-03-10,2025-04-30,2025-04-18,C013,Meridian Pharma,PRJ038,Project Boreal-38,P03,Equity Capital Markets,Deloitte,Due Diligence,12900,10700,10700,0,Recovered,0
+E000136,2025-04-12,2025-05-17,2025-05-08,C020,Glacier Manufacturing,PRJ059,Project Cascade-59,P02,Debt Capital Markets,TravelCo,Travel & Meetings,11000,4800,4800,0,Recovered,0
+E000137,2025-04-07,2025-05-18,2025-06-04,C023,Keystone Agriculture,PRJ069,Project Meridian-69,P01,M&A Advisory,AlphaSense,External Research,44900,37500,25200,12300,Partially Recovered,17
+E000138,2025-04-08,2025-05-19,2025-06-06,C011,Polar Data Systems,PRJ032,Project Pioneer-32,P03,Equity Capital Markets,DataRoom Inc.,Data Room,6000,5400,4800,600,Partially Recovered,18
+E000139,2025-04-23,2025-06-21,2025-06-21,C022,Beacon Education Group,PRJ065,Project Falcon-65,P04,Corporate Lending,Corporate Travel Services,Travel & Meetings,49200,12600,12600,0,Recovered,0
+E000140,2025-04-25,2025-06-06,2025-05-23,C020,Glacier Manufacturing,PRJ058,Project Boreal-58,P03,Equity Capital Markets,AlphaSense,External Research,70100,40100,40100,0,Recovered,0
+E000141,2025-04-22,2025-05-25,2025-08-01,C017,Boreal Resources,PRJ049,Project Meridian-49,P01,M&A Advisory,EY,Due Diligence,42000,33300,9400,23900,Delayed,68
+E000142,2025-04-27,2025-06-20,2025-07-05,C009,Atlas Logistics,PRJ025,Project Falcon-25,P04,Corporate Lending,Third Bridge,External Research,4800,3700,2000,1700,Partially Recovered,15
+E000143,2025-04-21,2025-06-07,2025-06-04,C001,Northstar Energy,PRJ002,Project Beacon-02,P05,Treasury & Risk Solutions,Bloomberg,Market Data,117800,17400,17400,0,Recovered,0
+E000144,2025-04-26,2025-06-19,2025-08-21,C023,Keystone Agriculture,PRJ067,Project Juniper-67,P02,Debt Capital Markets,S&P Capital IQ,Market Data,18100,6300,2900,3400,Delayed,63
+E000145,2025-04-05,2025-05-25,2025-05-23,C002,Aurora Mobility,PRJ004,Project Compass-04,P03,Equity Capital Markets,Datasite,Data Room,63500,61500,61500,0,Recovered,0
+E000146,2025-04-05,2025-05-10,2025-05-06,C016,Nova Retail Holdings,PRJ047,Project Juniper-47,P02,Debt Capital Markets,Corporate Travel Services,Travel & Meetings,42600,17700,17700,0,Recovered,0
+E000147,2025-04-03,2025-05-16,2025-06-01,C005,Cascade Consumer Brands,PRJ014,Project Trillium-14,P05,Treasury & Risk Solutions,Corporate Travel Services,Travel & Meetings,30600,18100,11100,7000,Partially Recovered,16
+E000148,2025-04-24,2025-06-21,2025-06-17,C007,BlueWave Infrastructure,PRJ021,Project Aurora-21,P04,Corporate Lending,TravelCo,Travel & Meetings,67200,27200,27200,0,Recovered,0
+E000149,2025-04-05,2025-05-29,,C007,BlueWave Infrastructure,PRJ021,Project Aurora-21,P04,Corporate Lending,LSEG Workspace,Market Data,97100,18300,0,18300,Unrecovered,247
+E000150,2025-04-09,2025-05-30,2025-05-17,C019,Redwood Media,PRJ055,Project Vertex-55,P04,Corporate Lending,LSEG Workspace,Market Data,7600,2600,2600,0,Recovered,0
+E000151,2025-04-15,2025-05-23,2025-05-22,C006,Summit Mining,PRJ018,Project Boreal-18,P04,Corporate Lending,Bloomberg,Market Data,17500,4300,4300,0,Recovered,0
+E000152,2025-04-24,2025-06-19,2025-06-11,C013,Meridian Pharma,PRJ037,Project Atlas-37,P05,Treasury & Risk Solutions,KPMG,Due Diligence,83100,70700,70700,0,Recovered,0
+E000153,2025-04-18,2025-06-07,2025-06-03,C022,Beacon Education Group,PRJ065,Project Falcon-65,P03,Equity Capital Markets,Osler,Legal Advisory,19400,16400,16400,0,Recovered,0
+E000154,2025-04-30,2025-06-12,2025-06-06,C024,Pacific Hospitality,PRJ071,Project Orion-71,P05,Treasury & Risk Solutions,TravelCo,Travel & Meetings,47800,28400,28400,0,Recovered,0
+E000155,2025-04-26,2025-06-22,2025-06-14,C020,Glacier Manufacturing,PRJ060,Project Glacier-60,P05,Treasury & Risk Solutions,Corporate Travel Services,Travel & Meetings,47800,20600,20600,0,Recovered,0
+E000156,2025-04-05,2025-05-26,2025-05-22,C009,Atlas Logistics,PRJ026,Project Harbour-26,P04,Corporate Lending,Norton Rose Fulbright,Legal Advisory,41600,41300,41300,0,Recovered,0
+E000157,2025-04-11,2025-06-05,,C003,Maple Health Systems,PRJ009,Project Meridian-09,P01,M&A Advisory,LSEG Workspace,Market Data,67800,9900,0,9900,Unrecovered,240
+E000158,2025-04-15,2025-06-09,2025-05-23,C018,Silverline Insurance,PRJ053,Project Summit-53,P01,M&A Advisory,TravelCo,Travel & Meetings,4000,1200,1200,0,Recovered,0
+E000159,2025-04-16,2025-06-15,2025-06-11,C004,Horizon Telecom,PRJ011,Project Orion-11,P03,Equity Capital Markets,AlphaSense,External Research,102500,70100,70100,0,Recovered,0
+E000160,2025-04-19,2025-05-19,2025-05-16,C001,Northstar Energy,PRJ001,Project Aurora-01,P02,Debt Capital Markets,PwC,Due Diligence,27900,26400,26400,0,Recovered,0
+E000161,2025-04-17,2025-06-04,2025-05-24,C016,Nova Retail Holdings,PRJ046,Project Harbour-46,P03,Equity Capital Markets,AlphaSense,External Research,11400,7700,7700,0,Recovered,0
+E000162,2025-04-25,2025-06-16,2025-06-02,C019,Redwood Media,PRJ056,Project Willow-56,P05,Treasury & Risk Solutions,Osler,Legal Advisory,4600,4300,4300,0,Recovered,0
+E000163,2025-04-05,2025-05-21,2025-05-04,C018,Silverline Insurance,PRJ054,Project Trillium-54,P05,Treasury & Risk Solutions,Norton Rose Fulbright,Legal Advisory,57300,46900,46900,0,Recovered,0
+E000164,2025-04-04,2025-05-15,2025-06-25,C018,Silverline Insurance,PRJ052,Project Pioneer-52,P04,Corporate Lending,LSEG Workspace,Market Data,18300,6300,2700,3600,Delayed,41
+E000165,2025-04-19,2025-05-26,2025-07-27,C005,Cascade Consumer Brands,PRJ015,Project Vertex-15,P01,M&A Advisory,Corporate Travel Services,Travel & Meetings,79900,25300,12700,12600,Delayed,62
+E000166,2025-04-12,2025-06-11,2025-05-26,C018,Silverline Insurance,PRJ053,Project Summit-53,P04,Corporate Lending,TravelCo,Travel & Meetings,75200,24300,24300,0,Recovered,0
+E000167,2025-04-07,2025-05-16,2025-05-10,C003,Maple Health Systems,PRJ007,Project Juniper-07,P03,Equity Capital Markets,PwC,Due Diligence,34800,29700,29700,0,Recovered,0
+E000168,2025-04-30,2025-06-27,2025-06-14,C005,Cascade Consumer Brands,PRJ015,Project Vertex-15,P04,Corporate Lending,TravelCo,Travel & Meetings,46000,20100,20100,0,Recovered,0
+E000169,2025-04-05,2025-05-14,2025-05-04,C001,Northstar Energy,PRJ001,Project Aurora-01,P04,Corporate Lending,DataRoom Inc.,Data Room,15100,13000,13000,0,Recovered,0
+E000170,2025-04-21,2025-05-29,2025-05-31,C011,Polar Data Systems,PRJ032,Project Pioneer-32,P05,Treasury & Risk Solutions,AlphaSense,External Research,60800,40000,30600,9400,Partially Recovered,2
+E000171,2025-04-30,2025-06-28,2025-06-15,C004,Horizon Telecom,PRJ010,Project Northstar-10,P01,M&A Advisory,DataRoom Inc.,Data Room,45500,44700,44700,0,Recovered,0
+E000172,2025-04-11,2025-06-06,2025-06-02,C001,Northstar Energy,PRJ001,Project Aurora-01,P01,M&A Advisory,DataRoom Inc.,Data Room,108100,99400,99400,0,Recovered,0
+E000173,2025-04-25,2025-06-14,2025-06-13,C011,Polar Data Systems,PRJ032,Project Pioneer-32,P05,Treasury & Risk Solutions,LSEG Workspace,Market Data,7900,1600,1600,0,Recovered,0
+E000174,2025-04-05,2025-05-11,2025-05-03,C017,Boreal Resources,PRJ049,Project Meridian-49,P04,Corporate Lending,Latham & Watkins,Legal Advisory,42200,33900,33900,0,Recovered,0
+E000175,2025-04-05,2025-06-04,2025-08-20,C010,Cedar Financial Group,PRJ029,Project Meridian-29,P05,Treasury & Risk Solutions,TravelCo,Travel & Meetings,57200,24800,13800,11000,Delayed,77
+E000176,2025-04-10,2025-05-11,2025-05-10,C001,Northstar Energy,PRJ001,Project Aurora-01,P02,Debt Capital Markets,Corporate Travel Services,Travel & Meetings,108900,65000,65000,0,Recovered,0
+E000177,2025-04-24,2025-06-11,2025-07-01,C021,Trillium Utilities,PRJ063,Project Cedar-63,P03,Equity Capital Markets,Guidepoint,External Research,74300,49800,42200,7600,Partially Recovered,20
+E000178,2025-04-30,2025-06-29,2025-06-13,C007,BlueWave Infrastructure,PRJ021,Project Aurora-21,P05,Treasury & Risk Solutions,Intralinks,Data Room,13400,13000,13000,0,Recovered,0
+E000179,2025-04-08,2025-06-05,2025-06-23,C023,Keystone Agriculture,PRJ068,Project Maple-68,P05,Treasury & Risk Solutions,S&P Capital IQ,Market Data,19300,5000,3200,1800,Partially Recovered,18
+E000180,2025-04-17,2025-06-03,2025-06-09,C012,Evergreen Foods,PRJ034,Project Trillium-34,P01,M&A Advisory,S&P Capital IQ,Market Data,19800,2800,1600,1200,Partially Recovered,6
+E000181,2025-05-18,2025-06-24,2025-06-10,C017,Boreal Resources,PRJ050,Project Northstar-50,P01,M&A Advisory,AlphaSense,External Research,43100,36100,36100,0,Recovered,0
+E000182,2025-05-04,2025-06-28,2025-07-18,C005,Cascade Consumer Brands,PRJ013,Project Summit-13,P02,Debt Capital Markets,Osler,Legal Advisory,63900,60900,52200,8700,Partially Recovered,20
+E000183,2025-05-07,2025-07-02,2025-06-15,C004,Horizon Telecom,PRJ010,Project Northstar-10,P05,Treasury & Risk Solutions,LSEG Workspace,Market Data,105300,30300,30300,0,Recovered,0
+E000184,2025-05-20,2025-06-26,2025-06-13,C004,Horizon Telecom,PRJ011,Project Orion-11,P01,M&A Advisory,Guidepoint,External Research,119200,89300,89300,0,Recovered,0
+E000185,2025-05-10,2025-06-14,2025-05-31,C003,Maple Health Systems,PRJ007,Project Juniper-07,P01,M&A Advisory,Guidepoint,External Research,71900,50600,50600,0,Recovered,0
+E000186,2025-05-17,2025-06-21,2025-06-07,C015,Titan Aerospace,PRJ043,Project Cedar-43,P03,Equity Capital Markets,TravelCo,Travel & Meetings,79200,37800,37800,0,Recovered,0
+E000187,2025-05-10,2025-06-22,2025-06-11,C024,Pacific Hospitality,PRJ072,Project Pioneer-72,P04,Corporate Lending,Bloomberg,Market Data,13500,1600,1600,0,Recovered,0
+E000188,2025-05-14,2025-07-09,2025-07-04,C009,Atlas Logistics,PRJ027,Project Juniper-27,P02,Debt Capital Markets,LSEG Workspace,Market Data,7900,1700,1700,0,Recovered,0
+E000189,2025-05-18,2025-06-25,2025-08-31,C020,Glacier Manufacturing,PRJ060,Project Glacier-60,P02,Debt Capital Markets,AlphaSense,External Research,30500,15500,8900,6600,Delayed,67
+E000190,2025-05-13,2025-06-15,,C020,Glacier Manufacturing,PRJ059,Project Cascade-59,P03,Equity Capital Markets,TravelCo,Travel & Meetings,40200,16700,0,16700,Unrecovered,230
+E000191,2025-05-22,2025-07-08,2025-07-17,C007,BlueWave Infrastructure,PRJ020,Project Glacier-20,P01,M&A Advisory,Datasite,Data Room,84000,78900,56200,22700,Partially Recovered,9
+E000192,2025-05-10,2025-06-22,2025-06-09,C016,Nova Retail Holdings,PRJ046,Project Harbour-46,P04,Corporate Lending,Bloomberg,Market Data,20600,2700,2700,0,Recovered,0
+E000193,2025-05-07,2025-06-13,2025-06-13,C007,BlueWave Infrastructure,PRJ020,Project Glacier-20,P05,Treasury & Risk Solutions,AlphaSense,External Research,94200,54300,54300,0,Recovered,0
+E000194,2025-05-26,2025-06-30,,C009,Atlas Logistics,PRJ025,Project Falcon-25,P05,Treasury & Risk Solutions,Osler,Legal Advisory,19100,17400,0,17400,Unrecovered,215
+E000195,2025-05-03,2025-06-20,2025-06-10,C021,Trillium Utilities,PRJ061,Project Aurora-61,P03,Equity Capital Markets,LSEG Workspace,Market Data,30900,9000,9000,0,Recovered,0
+E000196,2025-05-16,2025-07-15,2025-07-12,C012,Evergreen Foods,PRJ034,Project Trillium-34,P01,M&A Advisory,S&P Capital IQ,Market Data,17600,6100,6100,0,Recovered,0
+E000197,2025-05-10,2025-07-03,2025-06-16,C012,Evergreen Foods,PRJ034,Project Trillium-34,P05,Treasury & Risk Solutions,Intralinks,Data Room,63300,57900,57900,0,Recovered,0
+E000198,2025-05-10,2025-07-06,2025-06-20,C010,Cedar Financial Group,PRJ028,Project Maple-28,P02,Debt Capital Markets,DataRoom Inc.,Data Room,74300,74200,74200,0,Recovered,0
+E000199,2025-05-15,2025-06-14,2025-06-13,C004,Horizon Telecom,PRJ011,Project Orion-11,P02,Debt Capital Markets,Corporate Travel Services,Travel & Meetings,117000,39200,39200,0,Recovered,0
+E000200,2025-05-30,2025-07-20,2025-08-07,C022,Beacon Education Group,PRJ064,Project Compass-64,P01,M&A Advisory,Third Bridge,External Research,32900,18200,13800,4400,Partially Recovered,18
+E000201,2025-05-11,2025-06-14,2025-05-31,C013,Meridian Pharma,PRJ037,Project Atlas-37,P03,Equity Capital Markets,Guidepoint,External Research,34300,23100,23100,0,Recovered,0
+E000202,2025-05-29,2025-07-15,2025-07-09,C022,Beacon Education Group,PRJ065,Project Falcon-65,P01,M&A Advisory,Intralinks,Data Room,36400,34900,34900,0,Recovered,0
+E000203,2025-05-16,2025-07-09,2025-07-18,C007,BlueWave Infrastructure,PRJ021,Project Aurora-21,P04,Corporate Lending,Third Bridge,External Research,48900,29500,20600,8900,Partially Recovered,9
+E000204,2025-05-02,2025-06-10,2025-06-05,C010,Cedar Financial Group,PRJ028,Project Maple-28,P03,Equity Capital Markets,Intralinks,Data Room,25700,24900,24900,0,Recovered,0
+E000205,2025-05-01,2025-06-19,2025-07-04,C017,Boreal Resources,PRJ051,Project Orion-51,P03,Equity Capital Markets,Deloitte,Due Diligence,72700,68600,43500,25100,Partially Recovered,15
+E000206,2025-05-31,2025-07-30,2025-07-24,C018,Silverline Insurance,PRJ053,Project Summit-53,P03,Equity Capital Markets,Corporate Travel Services,Travel & Meetings,76200,44500,44500,0,Recovered,0
+E000207,2025-05-30,2025-07-21,2025-07-13,C008,Greenfield Renewables,PRJ022,Project Beacon-22,P04,Corporate Lending,Latham & Watkins,Legal Advisory,67300,64800,64800,0,Recovered,0
+E000208,2025-05-09,2025-06-09,2025-07-08,C006,Summit Mining,PRJ017,Project Atlas-17,P03,Equity Capital Markets,PwC,Due Diligence,20000,16900,4400,12500,Delayed,29
+E000209,2025-05-05,2025-06-06,2025-06-01,C010,Cedar Financial Group,PRJ030,Project Northstar-30,P05,Treasury & Risk Solutions,AlphaSense,External Research,11800,6800,6800,0,Recovered,0
+E000210,2025-05-29,2025-07-25,2025-07-23,C011,Polar Data Systems,PRJ031,Project Orion-31,P01,M&A Advisory,KPMG,Due Diligence,16400,15600,15600,0,Recovered,0
+E000211,2025-05-11,2025-06-27,2025-06-10,C006,Summit Mining,PRJ017,Project Atlas-17,P05,Treasury & Risk Solutions,KPMG,Due Diligence,83600,76700,76700,0,Recovered,0
+E000212,2025-05-22,2025-06-23,2025-06-20,C002,Aurora Mobility,PRJ005,Project Falcon-05,P02,Debt Capital Markets,Osler,Legal Advisory,32900,31100,31100,0,Recovered,0
+E000213,2025-05-18,2025-06-22,2025-06-16,C009,Atlas Logistics,PRJ025,Project Falcon-25,P02,Debt Capital Markets,Norton Rose Fulbright,Legal Advisory,62100,51900,51900,0,Recovered,0
+E000214,2025-05-19,2025-07-10,2025-07-08,C022,Beacon Education Group,PRJ065,Project Falcon-65,P04,Corporate Lending,Third Bridge,External Research,48000,37800,37800,0,Recovered,0
+E000215,2025-05-02,2025-06-26,2025-06-08,C021,Trillium Utilities,PRJ062,Project Beacon-62,P03,Equity Capital Markets,Latham & Watkins,Legal Advisory,44400,38000,38000,0,Recovered,0
+E000216,2025-05-04,2025-06-12,2025-06-30,C010,Cedar Financial Group,PRJ028,Project Maple-28,P03,Equity Capital Markets,Latham & Watkins,Legal Advisory,89000,80400,63800,16600,Partially Recovered,18
+E000217,2025-05-29,2025-07-21,2025-07-13,C012,Evergreen Foods,PRJ035,Project Vertex-35,P01,M&A Advisory,Guidepoint,External Research,77900,43500,43500,0,Recovered,0
+E000218,2025-05-05,2025-07-03,2025-06-27,C009,Atlas Logistics,PRJ026,Project Harbour-26,P03,Equity Capital Markets,TravelCo,Travel & Meetings,23500,8300,8300,0,Recovered,0
+E000219,2025-05-09,2025-06-17,2025-06-28,C007,BlueWave Infrastructure,PRJ019,Project Cascade-19,P03,Equity Capital Markets,TravelCo,Travel & Meetings,8300,2500,1400,1100,Partially Recovered,11
+E000220,2025-05-13,2025-06-22,2025-06-09,C005,Cascade Consumer Brands,PRJ013,Project Summit-13,P01,M&A Advisory,Guidepoint,External Research,59800,50500,50500,0,Recovered,0
+E000221,2025-05-05,2025-06-16,2025-05-30,C009,Atlas Logistics,PRJ025,Project Falcon-25,P03,Equity Capital Markets,Osler,Legal Advisory,9800,9400,9400,0,Recovered,0
+E000222,2025-05-26,2025-07-08,2025-06-29,C004,Horizon Telecom,PRJ010,Project Northstar-10,P01,M&A Advisory,Intralinks,Data Room,19900,19100,19100,0,Recovered,0
+E000223,2025-05-13,2025-06-29,2025-06-29,C012,Evergreen Foods,PRJ036,Project Willow-36,P05,Treasury & Risk Solutions,Third Bridge,External Research,33200,21400,21400,0,Recovered,0
+E000224,2025-05-03,2025-06-25,2025-06-13,C004,Horizon Telecom,PRJ010,Project Northstar-10,P05,Treasury & Risk Solutions,Norton Rose Fulbright,Legal Advisory,92000,75500,75500,0,Recovered,0
+E000225,2025-05-28,2025-06-28,2025-06-30,C022,Beacon Education Group,PRJ064,Project Compass-64,P02,Debt Capital Markets,EY,Due Diligence,33200,26600,19400,7200,Partially Recovered,2
+E000226,2025-06-12,2025-08-02,2025-07-24,C013,Meridian Pharma,PRJ038,Project Boreal-38,P02,Debt Capital Markets,LSEG Workspace,Market Data,85500,19900,19900,0,Recovered,0
+E000227,2025-06-08,2025-07-16,2025-07-22,C023,Keystone Agriculture,PRJ069,Project Meridian-69,P02,Debt Capital Markets,Third Bridge,External Research,13000,11000,8900,2100,Partially Recovered,6
+E000228,2025-06-20,2025-07-28,,C006,Summit Mining,PRJ017,Project Atlas-17,P05,Treasury & Risk Solutions,Corporate Travel Services,Travel & Meetings,62100,30300,0,30300,Unrecovered,187
+E000229,2025-06-01,2025-07-08,2025-06-20,C006,Summit Mining,PRJ018,Project Boreal-18,P02,Debt Capital Markets,Datasite,Data Room,8000,7200,7200,0,Recovered,0
+E000230,2025-06-25,2025-08-17,2025-08-15,C019,Redwood Media,PRJ055,Project Vertex-55,P02,Debt Capital Markets,Osler,Legal Advisory,10800,9200,9200,0,Recovered,0
+E000231,2025-06-15,2025-07-19,2025-08-02,C008,Greenfield Renewables,PRJ022,Project Beacon-22,P05,Treasury & Risk Solutions,Guidepoint,External Research,32400,25900,17200,8700,Partially Recovered,14
+E000232,2025-06-06,2025-07-15,2025-06-30,C015,Titan Aerospace,PRJ045,Project Falcon-45,P02,Debt Capital Markets,Corporate Travel Services,Travel & Meetings,44300,15900,15900,0,Recovered,0
+E000233,2025-06-19,2025-08-09,2025-07-31,C007,BlueWave Infrastructure,PRJ019,Project Cascade-19,P03,Equity Capital Markets,TravelCo,Travel & Meetings,110400,48600,48600,0,Recovered,0
+E000234,2025-06-10,2025-07-11,2025-07-31,C004,Horizon Telecom,PRJ012,Project Pioneer-12,P05,Treasury & Risk Solutions,Third Bridge,External Research,36900,29500,20000,9500,Partially Recovered,20
+E000235,2025-06-03,2025-07-09,2025-08-14,C021,Trillium Utilities,PRJ062,Project Beacon-62,P04,Corporate Lending,LSEG Workspace,Market Data,10000,2900,600,2300,Delayed,36
+E000236,2025-06-05,2025-07-26,2025-07-26,C010,Cedar Financial Group,PRJ030,Project Northstar-30,P01,M&A Advisory,PwC,Due Diligence,21300,21200,21200,0,Recovered,0
+E000237,2025-06-06,2025-07-24,2025-07-17,C008,Greenfield Renewables,PRJ024,Project Compass-24,P01,M&A Advisory,Corporate Travel Services,Travel & Meetings,19700,7800,7800,0,Recovered,0
+E000238,2025-06-18,2025-07-18,2025-07-16,C013,Meridian Pharma,PRJ038,Project Boreal-38,P02,Debt Capital Markets,EY,Due Diligence,9100,8300,8300,0,Recovered,0
+E000239,2025-06-25,2025-08-20,2025-08-06,C008,Greenfield Renewables,PRJ023,Project Cedar-23,P04,Corporate Lending,S&P Capital IQ,Market Data,28100,4900,4900,0,Recovered,0
+E000240,2025-06-26,2025-08-04,2025-07-22,C013,Meridian Pharma,PRJ039,Project Cascade-39,P04,Corporate Lending,Guidepoint,External Research,51000,31600,31600,0,Recovered,0
+E000241,2025-06-21,2025-08-04,2025-08-01,C003,Maple Health Systems,PRJ008,Project Maple-08,P03,Equity Capital Markets,LSEG Workspace,Market Data,83200,17800,17800,0,Recovered,0
+E000242,2025-06-13,2025-07-22,2025-07-05,C023,Keystone Agriculture,PRJ067,Project Juniper-67,P04,Corporate Lending,S&P Capital IQ,Market Data,36800,5900,5900,0,Recovered,0
+E000243,2025-06-25,2025-08-23,2025-08-26,C001,Northstar Energy,PRJ002,Project Beacon-02,P01,M&A Advisory,S&P Capital IQ,Market Data,5900,600,500,100,Partially Recovered,3
+E000244,2025-06-19,2025-08-03,2025-07-18,C008,Greenfield Renewables,PRJ024,Project Compass-24,P05,Treasury & Risk Solutions,Deloitte,Due Diligence,42700,33500,33500,0,Recovered,0
+E000245,2025-06-21,2025-08-05,2025-07-29,C006,Summit Mining,PRJ016,Project Willow-16,P05,Treasury & Risk Solutions,Corporate Travel Services,Travel & Meetings,68800,18700,18700,0,Recovered,0
+E000246,2025-06-11,2025-07-12,2025-07-07,C011,Polar Data Systems,PRJ033,Project Summit-33,P03,Equity Capital Markets,Guidepoint,External Research,35700,23700,23700,0,Recovered,0
+E000247,2025-06-13,2025-07-30,2025-08-06,C023,Keystone Agriculture,PRJ068,Project Maple-68,P03,Equity Capital Markets,Osler,Legal Advisory,40500,40500,21200,19300,Partially Recovered,7
+E000248,2025-06-21,2025-08-01,2025-08-21,C020,Glacier Manufacturing,PRJ058,Project Boreal-58,P04,Corporate Lending,Guidepoint,External Research,10800,7600,4500,3100,Partially Recovered,20
+E000249,2025-06-24,2025-08-09,2025-08-04,C004,Horizon Telecom,PRJ012,Project Pioneer-12,P04,Corporate Lending,Norton Rose Fulbright,Legal Advisory,33900,28000,28000,0,Recovered,0
+E000250,2025-06-08,2025-07-27,2025-08-15,C017,Boreal Resources,PRJ050,Project Northstar-50,P05,Treasury & Risk Solutions,TravelCo,Travel & Meetings,5400,1400,1100,300,Partially Recovered,19
+E000251,2025-06-24,2025-08-11,2025-08-06,C018,Silverline Insurance,PRJ053,Project Summit-53,P04,Corporate Lending,Osler,Legal Advisory,13100,10600,10600,0,Recovered,0
+E000252,2025-06-02,2025-07-31,2025-07-19,C005,Cascade Consumer Brands,PRJ014,Project Trillium-14,P04,Corporate Lending,Latham & Watkins,Legal Advisory,80300,71600,71600,0,Recovered,0
+E000253,2025-06-12,2025-08-04,2025-07-27,C007,BlueWave Infrastructure,PRJ019,Project Cascade-19,P03,Equity Capital Markets,Norton Rose Fulbright,Legal Advisory,35900,34100,34100,0,Recovered,0
+E000254,2025-06-24,2025-07-30,,C015,Titan Aerospace,PRJ044,Project Compass-44,P04,Corporate Lending,Bloomberg,Market Data,42400,6400,0,6400,Unrecovered,185
+E000255,2025-06-11,2025-07-21,2025-07-18,C018,Silverline Insurance,PRJ054,Project Trillium-54,P02,Debt Capital Markets,DataRoom Inc.,Data Room,82300,81900,81900,0,Recovered,0
+E000256,2025-06-27,2025-07-30,2025-07-18,C003,Maple Health Systems,PRJ009,Project Meridian-09,P05,Treasury & Risk Solutions,Intralinks,Data Room,71200,68400,68400,0,Recovered,0
+E000257,2025-06-27,2025-08-23,2025-08-19,C004,Horizon Telecom,PRJ011,Project Orion-11,P02,Debt Capital Markets,Latham & Watkins,Legal Advisory,96700,92900,92900,0,Recovered,0
+E000258,2025-06-07,2025-07-26,2025-07-13,C023,Keystone Agriculture,PRJ067,Project Juniper-67,P03,Equity Capital Markets,KPMG,Due Diligence,36600,34500,34500,0,Recovered,0
+E000259,2025-06-19,2025-08-09,2025-07-23,C018,Silverline Insurance,PRJ053,Project Summit-53,P03,Equity Capital Markets,Third Bridge,External Research,25000,20600,20600,0,Recovered,0
+E000260,2025-06-01,2025-07-21,2025-07-12,C006,Summit Mining,PRJ016,Project Willow-16,P04,Corporate Lending,Guidepoint,External Research,49100,41400,41400,0,Recovered,0
+E000261,2025-06-23,2025-08-13,2025-08-11,C008,Greenfield Renewables,PRJ022,Project Beacon-22,P02,Debt Capital Markets,TravelCo,Travel & Meetings,19000,9800,9800,0,Recovered,0
+E000262,2025-06-13,2025-08-04,2025-07-20,C018,Silverline Insurance,PRJ053,Project Summit-53,P01,M&A Advisory,Latham & Watkins,Legal Advisory,40700,35100,35100,0,Recovered,0
+E000263,2025-06-18,2025-07-22,2025-08-13,C001,Northstar Energy,PRJ001,Project Aurora-01,P04,Corporate Lending,PwC,Due Diligence,75700,65700,39500,26200,Delayed,22
+E000264,2025-06-19,2025-08-05,2025-08-05,C010,Cedar Financial Group,PRJ030,Project Northstar-30,P03,Equity Capital Markets,Deloitte,Due Diligence,6200,5300,5300,0,Recovered,0
+E000265,2025-06-17,2025-07-26,2025-09-06,C010,Cedar Financial Group,PRJ029,Project Meridian-29,P01,M&A Advisory,S&P Capital IQ,Market Data,18300,5000,1100,3900,Delayed,42
+E000266,2025-06-29,2025-08-09,2025-08-22,C010,Cedar Financial Group,PRJ029,Project Meridian-29,P03,Equity Capital Markets,LSEG Workspace,Market Data,84800,27800,22400,5400,Partially Recovered,13
+E000267,2025-06-30,2025-08-12,2025-07-30,C017,Boreal Resources,PRJ049,Project Meridian-49,P03,Equity Capital Markets,Bloomberg,Market Data,43800,14500,14500,0,Recovered,0
+E000268,2025-06-28,2025-08-06,2025-07-24,C003,Maple Health Systems,PRJ007,Project Juniper-07,P04,Corporate Lending,Intralinks,Data Room,74900,65400,65400,0,Recovered,0
+E000269,2025-06-21,2025-07-26,2025-07-08,C020,Glacier Manufacturing,PRJ058,Project Boreal-58,P04,Corporate Lending,Osler,Legal Advisory,25800,23500,23500,0,Recovered,0
+E000270,2025-06-14,2025-08-11,2025-08-31,C021,Trillium Utilities,PRJ062,Project Beacon-62,P03,Equity Capital Markets,Intralinks,Data Room,83700,77000,46000,31000,Partially Recovered,20
+E000271,2025-07-30,2025-09-13,,C018,Silverline Insurance,PRJ052,Project Pioneer-52,P01,M&A Advisory,LSEG Workspace,Market Data,71700,13500,0,13500,Unrecovered,140
+E000272,2025-07-22,2025-08-28,2025-08-24,C005,Cascade Consumer Brands,PRJ014,Project Trillium-14,P04,Corporate Lending,Datasite,Data Room,38600,38100,38100,0,Recovered,0
+E000273,2025-07-25,2025-09-23,2025-09-20,C011,Polar Data Systems,PRJ033,Project Summit-33,P02,Debt Capital Markets,Datasite,Data Room,35800,32400,32400,0,Recovered,0
+E000274,2025-07-11,2025-08-12,2025-07-29,C018,Silverline Insurance,PRJ054,Project Trillium-54,P03,Equity Capital Markets,Corporate Travel Services,Travel & Meetings,11600,3600,3600,0,Recovered,0
+E000275,2025-07-29,2025-09-15,2025-09-17,C012,Evergreen Foods,PRJ035,Project Vertex-35,P01,M&A Advisory,Datasite,Data Room,66200,64000,43100,20900,Partially Recovered,2
+E000276,2025-07-18,2025-08-28,2025-08-13,C022,Beacon Education Group,PRJ064,Project Compass-64,P01,M&A Advisory,TravelCo,Travel & Meetings,30200,13000,13000,0,Recovered,0
+E000277,2025-07-15,2025-08-17,2025-08-10,C008,Greenfield Renewables,PRJ022,Project Beacon-22,P01,M&A Advisory,Corporate Travel Services,Travel & Meetings,103000,41600,41600,0,Recovered,0
+E000278,2025-07-10,2025-09-08,2025-09-07,C007,BlueWave Infrastructure,PRJ021,Project Aurora-21,P05,Treasury & Risk Solutions,Guidepoint,External Research,108800,68300,68300,0,Recovered,0
+E000279,2025-07-30,2025-09-21,2025-09-06,C005,Cascade Consumer Brands,PRJ014,Project Trillium-14,P05,Treasury & Risk Solutions,TravelCo,Travel & Meetings,13600,6700,6700,0,Recovered,0
+E000280,2025-07-06,2025-08-16,2025-08-01,C009,Atlas Logistics,PRJ025,Project Falcon-25,P05,Treasury & Risk Solutions,Intralinks,Data Room,54500,51800,51800,0,Recovered,0
+E000281,2025-07-02,2025-08-13,2025-08-12,C016,Nova Retail Holdings,PRJ048,Project Maple-48,P04,Corporate Lending,S&P Capital IQ,Market Data,41200,5000,5000,0,Recovered,0
+E000282,2025-07-14,2025-08-16,2025-07-29,C011,Polar Data Systems,PRJ033,Project Summit-33,P02,Debt Capital Markets,Osler,Legal Advisory,17500,14700,14700,0,Recovered,0
+E000283,2025-07-14,2025-08-22,2025-08-16,C012,Evergreen Foods,PRJ034,Project Trillium-34,P04,Corporate Lending,LSEG Workspace,Market Data,30900,6500,6500,0,Recovered,0
+E000284,2025-07-17,2025-09-12,2025-08-29,C014,Harbour Real Estate,PRJ040,Project Glacier-40,P03,Equity Capital Markets,Osler,Legal Advisory,66600,55700,55700,0,Recovered,0
+E000285,2025-07-28,2025-09-24,2025-09-06,C021,Trillium Utilities,PRJ062,Project Beacon-62,P02,Debt Capital Markets,Bloomberg,Market Data,34100,11400,11400,0,Recovered,0
+E000286,2025-07-28,2025-08-31,2025-08-17,C016,Nova Retail Holdings,PRJ048,Project Maple-48,P03,Equity Capital Markets,Latham & Watkins,Legal Advisory,44700,40800,40800,0,Recovered,0
+E000287,2025-07-13,2025-08-21,2025-08-12,C022,Beacon Education Group,PRJ066,Project Harbour-66,P03,Equity Capital Markets,Datasite,Data Room,25700,24500,24500,0,Recovered,0
+E000288,2025-07-10,2025-08-28,2025-08-11,C001,Northstar Energy,PRJ002,Project Beacon-02,P01,M&A Advisory,Intralinks,Data Room,15100,13600,13600,0,Recovered,0
+E000289,2025-07-10,2025-08-22,2025-08-08,C003,Maple Health Systems,PRJ007,Project Juniper-07,P04,Corporate Lending,PwC,Due Diligence,17300,14500,14500,0,Recovered,0
+E000290,2025-07-04,2025-08-08,2025-07-29,C014,Harbour Real Estate,PRJ042,Project Beacon-42,P04,Corporate Lending,Norton Rose Fulbright,Legal Advisory,35000,29400,29400,0,Recovered,0
+E000291,2025-07-05,2025-08-20,2025-08-13,C024,Pacific Hospitality,PRJ070,Project Northstar-70,P05,Treasury & Risk Solutions,Latham & Watkins,Legal Advisory,47600,39500,39500,0,Recovered,0
+E000292,2025-07-25,2025-09-08,2025-08-23,C009,Atlas Logistics,PRJ026,Project Harbour-26,P05,Treasury & Risk Solutions,Corporate Travel Services,Travel & Meetings,21300,11100,11100,0,Recovered,0
+E000293,2025-07-19,2025-08-26,2025-08-20,C012,Evergreen Foods,PRJ035,Project Vertex-35,P05,Treasury & Risk Solutions,TravelCo,Travel & Meetings,32000,10100,10100,0,Recovered,0
+E000294,2025-07-10,2025-09-02,2025-09-02,C021,Trillium Utilities,PRJ062,Project Beacon-62,P04,Corporate Lending,Corporate Travel Services,Travel & Meetings,82700,40000,40000,0,Recovered,0
+E000295,2025-07-13,2025-08-28,2025-08-14,C019,Redwood Media,PRJ056,Project Willow-56,P03,Equity Capital Markets,S&P Capital IQ,Market Data,23300,3900,3900,0,Recovered,0
+E000296,2025-07-03,2025-08-27,2025-10-13,C006,Summit Mining,PRJ016,Project Willow-16,P02,Debt Capital Markets,Deloitte,Due Diligence,51000,43600,26300,17300,Delayed,47
+E000297,2025-07-19,2025-09-07,2025-08-26,C004,Horizon Telecom,PRJ011,Project Orion-11,P02,Debt Capital Markets,Osler,Legal Advisory,25200,24000,24000,0,Recovered,0
+E000298,2025-07-24,2025-09-19,2025-09-17,C004,Horizon Telecom,PRJ012,Project Pioneer-12,P02,Debt Capital Markets,Intralinks,Data Room,98500,94600,94600,0,Recovered,0
+E000299,2025-07-28,2025-08-27,2025-08-21,C016,Nova Retail Holdings,PRJ046,Project Harbour-46,P04,Corporate Lending,Osler,Legal Advisory,48000,42700,42700,0,Recovered,0
+E000300,2025-07-01,2025-08-27,2025-08-28,C023,Keystone Agriculture,PRJ067,Project Juniper-67,P02,Debt Capital Markets,Intralinks,Data Room,13500,13100,10200,2900,Partially Recovered,1
+E000301,2025-07-31,2025-09-02,2025-08-23,C003,Maple Health Systems,PRJ008,Project Maple-08,P01,M&A Advisory,Datasite,Data Room,80300,70800,70800,0,Recovered,0
+E000302,2025-07-25,2025-09-14,2025-08-30,C007,BlueWave Infrastructure,PRJ021,Project Aurora-21,P01,M&A Advisory,Corporate Travel Services,Travel & Meetings,70700,25900,25900,0,Recovered,0
+E000303,2025-07-13,2025-08-17,2025-08-22,C005,Cascade Consumer Brands,PRJ014,Project Trillium-14,P05,Treasury & Risk Solutions,LSEG Workspace,Market Data,52000,16400,9000,7400,Partially Recovered,5
+E000304,2025-07-30,2025-09-17,2025-09-29,C002,Aurora Mobility,PRJ006,Project Harbour-06,P02,Debt Capital Markets,Third Bridge,External Research,111800,83800,57600,26200,Partially Recovered,12
+E000305,2025-07-19,2025-09-01,2025-08-28,C008,Greenfield Renewables,PRJ023,Project Cedar-23,P03,Equity Capital Markets,LSEG Workspace,Market Data,26100,7800,7800,0,Recovered,0
+E000306,2025-07-10,2025-09-07,2025-08-31,C009,Atlas Logistics,PRJ025,Project Falcon-25,P04,Corporate Lending,Third Bridge,External Research,80000,45700,45700,0,Recovered,0
+E000307,2025-07-27,2025-09-02,2025-08-19,C010,Cedar Financial Group,PRJ028,Project Maple-28,P03,Equity Capital Markets,EY,Due Diligence,31300,29400,29400,0,Recovered,0
+E000308,2025-07-02,2025-08-19,2025-08-17,C009,Atlas Logistics,PRJ025,Project Falcon-25,P02,Debt Capital Markets,KPMG,Due Diligence,33800,28900,28900,0,Recovered,0
+E000309,2025-07-22,2025-09-15,2025-09-26,C024,Pacific Hospitality,PRJ070,Project Northstar-70,P01,M&A Advisory,DataRoom Inc.,Data Room,19000,17600,13400,4200,Partially Recovered,11
+E000310,2025-07-07,2025-08-16,2025-08-12,C009,Atlas Logistics,PRJ025,Project Falcon-25,P03,Equity Capital Markets,S&P Capital IQ,Market Data,44100,12700,12700,0,Recovered,0
+E000311,2025-07-10,2025-08-28,2025-08-26,C016,Nova Retail Holdings,PRJ046,Project Harbour-46,P03,Equity Capital Markets,Guidepoint,External Research,16600,13000,13000,0,Recovered,0
+E000312,2025-07-31,2025-09-23,2025-09-05,C019,Redwood Media,PRJ055,Project Vertex-55,P03,Equity Capital Markets,Third Bridge,External Research,45500,34300,34300,0,Recovered,0
+E000313,2025-07-17,2025-08-18,2025-07-31,C016,Nova Retail Holdings,PRJ046,Project Harbour-46,P01,M&A Advisory,Corporate Travel Services,Travel & Meetings,27900,8100,8100,0,Recovered,0
+E000314,2025-07-12,2025-08-11,2025-10-09,C007,BlueWave Infrastructure,PRJ021,Project Aurora-21,P03,Equity Capital Markets,Datasite,Data Room,16000,14900,3900,11000,Delayed,59
+E000315,2025-07-26,2025-09-08,2025-08-23,C023,Keystone Agriculture,PRJ068,Project Maple-68,P04,Corporate Lending,Deloitte,Due Diligence,49000,45000,45000,0,Recovered,0
+E000316,2025-08-11,2025-09-14,2025-11-18,C011,Polar Data Systems,PRJ033,Project Summit-33,P05,Treasury & Risk Solutions,TravelCo,Travel & Meetings,39800,11200,7000,4200,Delayed,65
+E000317,2025-08-31,2025-10-11,2025-10-22,C022,Beacon Education Group,PRJ065,Project Falcon-65,P04,Corporate Lending,DataRoom Inc.,Data Room,43100,39500,26200,13300,Partially Recovered,11
+E000318,2025-08-23,2025-10-12,2025-11-23,C004,Horizon Telecom,PRJ011,Project Orion-11,P04,Corporate Lending,AlphaSense,External Research,12400,8700,4700,4000,Delayed,42
+E000319,2025-08-19,2025-10-09,2025-10-03,C011,Polar Data Systems,PRJ032,Project Pioneer-32,P03,Equity Capital Markets,Third Bridge,External Research,63000,39400,39400,0,Recovered,0
+E000320,2025-08-19,2025-10-04,2025-09-22,C017,Boreal Resources,PRJ049,Project Meridian-49,P05,Treasury & Risk Solutions,Corporate Travel Services,Travel & Meetings,47900,23800,23800,0,Recovered,0
+E000321,2025-08-19,2025-09-23,2025-10-12,C006,Summit Mining,PRJ018,Project Boreal-18,P02,Debt Capital Markets,Third Bridge,External Research,43500,34700,21500,13200,Partially Recovered,19
+E000322,2025-08-10,2025-09-25,2025-09-15,C020,Glacier Manufacturing,PRJ058,Project Boreal-58,P04,Corporate Lending,Guidepoint,External Research,39400,31300,31300,0,Recovered,0
+E000323,2025-08-23,2025-10-01,2025-09-23,C009,Atlas Logistics,PRJ026,Project Harbour-26,P04,Corporate Lending,Intralinks,Data Room,77400,66300,66300,0,Recovered,0
+E000324,2025-08-16,2025-09-21,2025-10-25,C015,Titan Aerospace,PRJ043,Project Cedar-43,P04,Corporate Lending,Bloomberg,Market Data,17300,3000,1600,1400,Delayed,34
+E000325,2025-08-04,2025-10-02,2025-12-08,C014,Harbour Real Estate,PRJ040,Project Glacier-40,P02,Debt Capital Markets,Third Bridge,External Research,70300,44000,21300,22700,Delayed,67
+E000326,2025-08-04,2025-09-05,2025-08-30,C009,Atlas Logistics,PRJ026,Project Harbour-26,P03,Equity Capital Markets,Corporate Travel Services,Travel & Meetings,29100,13600,13600,0,Recovered,0
+E000327,2025-08-14,2025-09-22,2025-10-18,C011,Polar Data Systems,PRJ032,Project Pioneer-32,P02,Debt Capital Markets,AlphaSense,External Research,13700,11400,3200,8200,Delayed,26
+E000328,2025-08-29,2025-10-27,,C015,Titan Aerospace,PRJ043,Project Cedar-43,P04,Corporate Lending,Intralinks,Data Room,78700,74700,0,74700,Unrecovered,96
+E000329,2025-08-05,2025-09-10,2025-08-27,C010,Cedar Financial Group,PRJ030,Project Northstar-30,P05,Treasury & Risk Solutions,DataRoom Inc.,Data Room,107000,103400,103400,0,Recovered,0
+E000330,2025-08-10,2025-09-15,2025-09-07,C017,Boreal Resources,PRJ051,Project Orion-51,P03,Equity Capital Markets,Bloomberg,Market Data,22500,2900,2900,0,Recovered,0
+E000331,2025-08-05,2025-09-18,2025-09-06,C023,Keystone Agriculture,PRJ068,Project Maple-68,P03,Equity Capital Markets,Norton Rose Fulbright,Legal Advisory,24900,22800,22800,0,Recovered,0
+E000332,2025-08-16,2025-10-04,2025-09-16,C017,Boreal Resources,PRJ050,Project Northstar-50,P03,Equity Capital Markets,Norton Rose Fulbright,Legal Advisory,60100,58200,58200,0,Recovered,0
+E000333,2025-08-03,2025-09-15,2025-08-30,C008,Greenfield Renewables,PRJ022,Project Beacon-22,P05,Treasury & Risk Solutions,Bloomberg,Market Data,70000,19000,19000,0,Recovered,0
+E000334,2025-08-31,2025-10-25,2025-11-04,C007,BlueWave Infrastructure,PRJ020,Project Glacier-20,P03,Equity Capital Markets,DataRoom Inc.,Data Room,121300,117800,63700,54100,Partially Recovered,10
+E000335,2025-08-17,2025-09-20,,C010,Cedar Financial Group,PRJ030,Project Northstar-30,P04,Corporate Lending,EY,Due Diligence,54100,45900,0,45900,Unrecovered,133
+E000336,2025-08-14,2025-09-30,,C016,Nova Retail Holdings,PRJ048,Project Maple-48,P05,Treasury & Risk Solutions,Corporate Travel Services,Travel & Meetings,33800,11300,0,11300,Unrecovered,123
+E000337,2025-08-10,2025-09-25,2025-09-23,C009,Atlas Logistics,PRJ027,Project Juniper-27,P03,Equity Capital Markets,Guidepoint,External Research,18600,14800,14800,0,Recovered,0
+E000338,2025-08-04,2025-10-03,2025-12-02,C020,Glacier Manufacturing,PRJ060,Project Glacier-60,P05,Treasury & Risk Solutions,AlphaSense,External Research,34800,24300,13200,11100,Delayed,60
+E000339,2025-08-09,2025-09-26,2025-11-22,C003,Maple Health Systems,PRJ008,Project Maple-08,P02,Debt Capital Markets,LSEG Workspace,Market Data,24900,2500,1300,1200,Delayed,57
+E000340,2025-08-19,2025-09-23,2025-09-11,C009,Atlas Logistics,PRJ025,Project Falcon-25,P05,Treasury & Risk Solutions,Latham & Watkins,Legal Advisory,14300,12700,12700,0,Recovered,0
+E000341,2025-08-11,2025-09-18,2025-09-07,C019,Redwood Media,PRJ055,Project Vertex-55,P04,Corporate Lending,Osler,Legal Advisory,39900,35700,35700,0,Recovered,0
+E000342,2025-08-15,2025-10-11,2025-10-05,C001,Northstar Energy,PRJ001,Project Aurora-01,P04,Corporate Lending,Guidepoint,External Research,93800,65000,65000,0,Recovered,0
+E000343,2025-08-10,2025-09-20,2025-09-13,C023,Keystone Agriculture,PRJ067,Project Juniper-67,P03,Equity Capital Markets,TravelCo,Travel & Meetings,10300,4500,4500,0,Recovered,0
+E000344,2025-08-27,2025-10-01,2025-10-08,C022,Beacon Education Group,PRJ065,Project Falcon-65,P02,Debt Capital Markets,Guidepoint,External Research,17400,12800,9100,3700,Partially Recovered,7
+E000345,2025-08-16,2025-09-19,2025-09-04,C008,Greenfield Renewables,PRJ023,Project Cedar-23,P04,Corporate Lending,EY,Due Diligence,72100,56700,56700,0,Recovered,0
+E000346,2025-08-10,2025-09-12,2025-08-25,C019,Redwood Media,PRJ055,Project Vertex-55,P03,Equity Capital Markets,Intralinks,Data Room,37400,34400,34400,0,Recovered,0
+E000347,2025-08-31,2025-10-17,,C011,Polar Data Systems,PRJ031,Project Orion-31,P03,Equity Capital Markets,TravelCo,Travel & Meetings,67400,37300,0,37300,Unrecovered,106
+E000348,2025-08-16,2025-09-24,2025-09-17,C022,Beacon Education Group,PRJ065,Project Falcon-65,P01,M&A Advisory,Corporate Travel Services,Travel & Meetings,12500,7000,7000,0,Recovered,0
+E000349,2025-08-13,2025-10-01,2025-10-20,C019,Redwood Media,PRJ057,Project Atlas-57,P05,Treasury & Risk Solutions,DataRoom Inc.,Data Room,35800,31400,21500,9900,Partially Recovered,19
+E000350,2025-08-04,2025-10-03,2025-10-12,C022,Beacon Education Group,PRJ064,Project Compass-64,P05,Treasury & Risk Solutions,Guidepoint,External Research,27900,20500,15300,5200,Partially Recovered,9
+E000351,2025-08-09,2025-09-16,2025-09-09,C012,Evergreen Foods,PRJ035,Project Vertex-35,P03,Equity Capital Markets,Corporate Travel Services,Travel & Meetings,67000,21200,21200,0,Recovered,0
+E000352,2025-08-25,2025-10-09,2025-10-05,C016,Nova Retail Holdings,PRJ048,Project Maple-48,P05,Treasury & Risk Solutions,Deloitte,Due Diligence,13800,11800,11800,0,Recovered,0
+E000353,2025-08-01,2025-09-10,2025-09-08,C011,Polar Data Systems,PRJ031,Project Orion-31,P02,Debt Capital Markets,PwC,Due Diligence,21800,17000,17000,0,Recovered,0
+E000354,2025-08-14,2025-09-28,2025-09-14,C018,Silverline Insurance,PRJ054,Project Trillium-54,P04,Corporate Lending,Deloitte,Due Diligence,41900,35500,35500,0,Recovered,0
+E000355,2025-08-08,2025-10-07,2025-10-25,C024,Pacific Hospitality,PRJ072,Project Pioneer-72,P02,Debt Capital Markets,Intralinks,Data Room,3000,3000,2600,400,Partially Recovered,18
+E000356,2025-08-05,2025-09-14,2025-10-02,C004,Horizon Telecom,PRJ012,Project Pioneer-12,P04,Corporate Lending,PwC,Due Diligence,6000,5200,2800,2400,Partially Recovered,18
+E000357,2025-08-16,2025-10-14,2025-10-02,C013,Meridian Pharma,PRJ039,Project Cascade-39,P03,Equity Capital Markets,Guidepoint,External Research,52800,30100,30100,0,Recovered,0
+E000358,2025-08-23,2025-10-13,,C023,Keystone Agriculture,PRJ069,Project Meridian-69,P04,Corporate Lending,Corporate Travel Services,Travel & Meetings,43100,23300,0,23300,Unrecovered,110
+E000359,2025-08-17,2025-10-12,2025-10-02,C020,Glacier Manufacturing,PRJ059,Project Cascade-59,P04,Corporate Lending,LSEG Workspace,Market Data,29100,8400,8400,0,Recovered,0
+E000360,2025-08-14,2025-09-24,,C001,Northstar Energy,PRJ003,Project Cedar-03,P02,Debt Capital Markets,Bloomberg,Market Data,42200,5500,0,5500,Unrecovered,129
+E000361,2025-09-15,2025-10-17,2025-10-01,C020,Glacier Manufacturing,PRJ059,Project Cascade-59,P01,M&A Advisory,Third Bridge,External Research,34400,21600,21600,0,Recovered,0
+E000362,2025-09-30,2025-11-18,2026-01-18,C020,Glacier Manufacturing,PRJ058,Project Boreal-58,P05,Treasury & Risk Solutions,Datasite,Data Room,56200,56000,27500,28500,Delayed,61
+E000363,2025-09-16,2025-11-13,2025-11-11,C015,Titan Aerospace,PRJ044,Project Compass-44,P02,Debt Capital Markets,Osler,Legal Advisory,105500,94600,94600,0,Recovered,0
+E000364,2025-09-02,2025-10-08,2025-10-08,C006,Summit Mining,PRJ017,Project Atlas-17,P02,Debt Capital Markets,Latham & Watkins,Legal Advisory,33400,30800,30800,0,Recovered,0
+E000365,2025-09-23,2025-11-17,2025-11-07,C022,Beacon Education Group,PRJ064,Project Compass-64,P03,Equity Capital Markets,Norton Rose Fulbright,Legal Advisory,15000,14100,14100,0,Recovered,0
+E000366,2025-09-14,2025-10-27,2025-10-09,C005,Cascade Consumer Brands,PRJ013,Project Summit-13,P03,Equity Capital Markets,DataRoom Inc.,Data Room,24800,21300,21300,0,Recovered,0
+E000367,2025-09-04,2025-10-22,2025-10-17,C001,Northstar Energy,PRJ001,Project Aurora-01,P05,Treasury & Risk Solutions,AlphaSense,External Research,117900,86600,86600,0,Recovered,0
+E000368,2025-09-01,2025-10-24,,C013,Meridian Pharma,PRJ038,Project Boreal-38,P05,Treasury & Risk Solutions,Osler,Legal Advisory,46100,44800,0,44800,Unrecovered,99
+E000369,2025-09-03,2025-10-18,2025-10-06,C014,Harbour Real Estate,PRJ042,Project Beacon-42,P04,Corporate Lending,PwC,Due Diligence,11800,9700,9700,0,Recovered,0
+E000370,2025-09-12,2025-10-16,2025-10-11,C003,Maple Health Systems,PRJ008,Project Maple-08,P02,Debt Capital Markets,Third Bridge,External Research,36000,19500,19500,0,Recovered,0
+E000371,2025-09-05,2025-10-05,2025-10-04,C007,BlueWave Infrastructure,PRJ020,Project Glacier-20,P05,Treasury & Risk Solutions,DataRoom Inc.,Data Room,110700,98600,98600,0,Recovered,0
+E000372,2025-09-07,2025-11-03,,C001,Northstar Energy,PRJ001,Project Aurora-01,P02,Debt Capital Markets,Third Bridge,External Research,121000,94900,0,94900,Unrecovered,89
+E000373,2025-09-06,2025-10-18,,C024,Pacific Hospitality,PRJ070,Project Northstar-70,P04,Corporate Lending,Bloomberg,Market Data,9000,1900,0,1900,Unrecovered,105
+E000374,2025-09-13,2025-10-21,2025-10-18,C003,Maple Health Systems,PRJ007,Project Juniper-07,P04,Corporate Lending,Osler,Legal Advisory,9300,8000,8000,0,Recovered,0
+E000375,2025-09-19,2025-11-07,2025-11-05,C015,Titan Aerospace,PRJ043,Project Cedar-43,P05,Treasury & Risk Solutions,Datasite,Data Room,96800,84400,84400,0,Recovered,0
+E000376,2025-09-22,2025-11-15,2026-01-12,C002,Aurora Mobility,PRJ004,Project Compass-04,P02,Debt Capital Markets,TravelCo,Travel & Meetings,37400,11600,4500,7100,Delayed,58
+E000377,2025-09-02,2025-11-01,2025-10-26,C014,Harbour Real Estate,PRJ041,Project Aurora-41,P04,Corporate Lending,Guidepoint,External Research,66800,46200,46200,0,Recovered,0
+E000378,2025-09-06,2025-10-13,2025-10-03,C004,Horizon Telecom,PRJ012,Project Pioneer-12,P04,Corporate Lending,EY,Due Diligence,47700,43100,43100,0,Recovered,0
+E000379,2025-09-12,2025-10-29,2025-10-12,C020,Glacier Manufacturing,PRJ059,Project Cascade-59,P05,Treasury & Risk Solutions,LSEG Workspace,Market Data,35600,6100,6100,0,Recovered,0
+E000380,2025-09-26,2025-10-31,2025-10-25,C020,Glacier Manufacturing,PRJ059,Project Cascade-59,P04,Corporate Lending,Third Bridge,External Research,14500,8000,8000,0,Recovered,0
+E000381,2025-09-11,2025-10-29,2025-11-24,C007,BlueWave Infrastructure,PRJ021,Project Aurora-21,P04,Corporate Lending,Intralinks,Data Room,76000,74200,40000,34200,Delayed,26
+E000382,2025-09-04,2025-10-26,2025-11-08,C018,Silverline Insurance,PRJ053,Project Summit-53,P01,M&A Advisory,DataRoom Inc.,Data Room,35100,33400,26800,6600,Partially Recovered,13
+E000383,2025-09-22,2025-11-15,,C011,Polar Data Systems,PRJ031,Project Orion-31,P02,Debt Capital Markets,LSEG Workspace,Market Data,9700,1100,0,1100,Unrecovered,77
+E000384,2025-09-24,2025-10-28,2025-12-06,C020,Glacier Manufacturing,PRJ058,Project Boreal-58,P04,Corporate Lending,Latham & Watkins,Legal Advisory,22400,20300,8000,12300,Delayed,39
+E000385,2025-09-22,2025-10-27,2025-11-14,C001,Northstar Energy,PRJ002,Project Beacon-02,P04,Corporate Lending,Corporate Travel Services,Travel & Meetings,34300,15800,13000,2800,Partially Recovered,18
+E000386,2025-09-21,2025-11-18,2025-11-18,C006,Summit Mining,PRJ017,Project Atlas-17,P05,Treasury & Risk Solutions,TravelCo,Travel & Meetings,35600,14800,14800,0,Recovered,0
+E000387,2025-09-30,2025-11-23,2025-12-10,C023,Keystone Agriculture,PRJ067,Project Juniper-67,P05,Treasury & Risk Solutions,AlphaSense,External Research,5700,3300,2800,500,Partially Recovered,17
+E000388,2025-09-24,2025-10-24,2025-10-24,C007,BlueWave Infrastructure,PRJ019,Project Cascade-19,P02,Debt Capital Markets,LSEG Workspace,Market Data,99800,27700,27700,0,Recovered,0
+E000389,2025-09-08,2025-10-26,2025-11-05,C011,Polar Data Systems,PRJ033,Project Summit-33,P04,Corporate Lending,Deloitte,Due Diligence,68300,51800,26200,25600,Partially Recovered,10
+E000390,2025-09-10,2025-11-08,2025-11-06,C010,Cedar Financial Group,PRJ029,Project Meridian-29,P03,Equity Capital Markets,LSEG Workspace,Market Data,88200,26500,26500,0,Recovered,0
+E000391,2025-09-26,2025-11-25,2025-11-18,C009,Atlas Logistics,PRJ026,Project Harbour-26,P05,Treasury & Risk Solutions,AlphaSense,External Research,52000,42900,42900,0,Recovered,0
+E000392,2025-09-30,2025-11-04,2026-01-05,C004,Horizon Telecom,PRJ010,Project Northstar-10,P05,Treasury & Risk Solutions,Osler,Legal Advisory,69600,61800,32000,29800,Delayed,62
+E000393,2025-09-10,2025-11-09,2025-11-02,C002,Aurora Mobility,PRJ004,Project Compass-04,P05,Treasury & Risk Solutions,Corporate Travel Services,Travel & Meetings,39900,13100,13100,0,Recovered,0
+E000394,2025-09-16,2025-11-05,2025-10-22,C010,Cedar Financial Group,PRJ028,Project Maple-28,P01,M&A Advisory,Latham & Watkins,Legal Advisory,53900,46200,46200,0,Recovered,0
+E000395,2025-09-01,2025-10-25,,C019,Redwood Media,PRJ056,Project Willow-56,P01,M&A Advisory,Bloomberg,Market Data,22300,7100,0,7100,Unrecovered,98
+E000396,2025-09-12,2025-10-12,2025-10-06,C007,BlueWave Infrastructure,PRJ021,Project Aurora-21,P03,Equity Capital Markets,S&P Capital IQ,Market Data,35200,7200,7200,0,Recovered,0
+E000397,2025-09-08,2025-11-05,2025-10-25,C002,Aurora Mobility,PRJ005,Project Falcon-05,P05,Treasury & Risk Solutions,S&P Capital IQ,Market Data,26000,5100,5100,0,Recovered,0
+E000398,2025-09-10,2025-11-03,2025-11-14,C009,Atlas Logistics,PRJ026,Project Harbour-26,P05,Treasury & Risk Solutions,Corporate Travel Services,Travel & Meetings,83500,47700,37500,10200,Partially Recovered,11
+E000399,2025-09-06,2025-10-24,2025-10-18,C017,Boreal Resources,PRJ051,Project Orion-51,P03,Equity Capital Markets,DataRoom Inc.,Data Room,22000,20000,20000,0,Recovered,0
+E000400,2025-09-18,2025-11-03,2025-11-22,C022,Beacon Education Group,PRJ065,Project Falcon-65,P01,M&A Advisory,Corporate Travel Services,Travel & Meetings,2300,1200,900,300,Partially Recovered,19
+E000401,2025-09-16,2025-10-25,2025-11-08,C001,Northstar Energy,PRJ002,Project Beacon-02,P02,Debt Capital Markets,Corporate Travel Services,Travel & Meetings,94600,54400,30300,24100,Partially Recovered,14
+E000402,2025-09-18,2025-11-13,2025-10-28,C019,Redwood Media,PRJ056,Project Willow-56,P05,Treasury & Risk Solutions,Intralinks,Data Room,42400,39900,39900,0,Recovered,0
+E000403,2025-09-15,2025-10-15,2025-10-12,C002,Aurora Mobility,PRJ006,Project Harbour-06,P03,Equity Capital Markets,Bloomberg,Market Data,22300,4600,4600,0,Recovered,0
+E000404,2025-09-15,2025-11-06,2025-10-24,C004,Horizon Telecom,PRJ011,Project Orion-11,P04,Corporate Lending,Third Bridge,External Research,78700,45600,45600,0,Recovered,0
+E000405,2025-09-17,2025-10-30,2025-10-13,C020,Glacier Manufacturing,PRJ059,Project Cascade-59,P02,Debt Capital Markets,Corporate Travel Services,Travel & Meetings,14500,5500,5500,0,Recovered,0
+E000406,2025-10-11,2025-11-25,2025-11-25,C003,Maple Health Systems,PRJ008,Project Maple-08,P03,Equity Capital Markets,Guidepoint,External Research,34700,17900,17900,0,Recovered,0
+E000407,2025-10-26,2025-11-28,2026-01-22,C018,Silverline Insurance,PRJ054,Project Trillium-54,P02,Debt Capital Markets,Latham & Watkins,Legal Advisory,18600,18400,5000,13400,Delayed,55
+E000408,2025-10-03,2025-11-07,2025-11-03,C002,Aurora Mobility,PRJ006,Project Harbour-06,P01,M&A Advisory,Norton Rose Fulbright,Legal Advisory,69200,57400,57400,0,Recovered,0
+E000409,2025-10-17,2025-12-10,2025-12-01,C018,Silverline Insurance,PRJ052,Project Pioneer-52,P05,Treasury & Risk Solutions,Datasite,Data Room,8000,7100,7100,0,Recovered,0
+E000410,2025-10-19,2025-11-25,2025-11-07,C006,Summit Mining,PRJ016,Project Willow-16,P04,Corporate Lending,Intralinks,Data Room,97600,88600,88600,0,Recovered,0
+E000411,2025-10-26,2025-12-10,2025-11-26,C003,Maple Health Systems,PRJ008,Project Maple-08,P03,Equity Capital Markets,Latham & Watkins,Legal Advisory,23200,21700,21700,0,Recovered,0
+E000412,2025-10-29,2025-12-11,2025-12-02,C010,Cedar Financial Group,PRJ029,Project Meridian-29,P01,M&A Advisory,Guidepoint,External Research,116800,59500,59500,0,Recovered,0
+E000413,2025-10-17,2025-11-25,2025-11-17,C002,Aurora Mobility,PRJ006,Project Harbour-06,P03,Equity Capital Markets,Third Bridge,External Research,95500,52000,52000,0,Recovered,0
+E000414,2025-10-11,2025-11-17,2025-11-26,C002,Aurora Mobility,PRJ006,Project Harbour-06,P02,Debt Capital Markets,DataRoom Inc.,Data Room,72200,63900,48200,15700,Partially Recovered,9
+E000415,2025-10-03,2025-11-22,2025-11-15,C019,Redwood Media,PRJ057,Project Atlas-57,P05,Treasury & Risk Solutions,AlphaSense,External Research,16800,12200,12200,0,Recovered,0
+E000416,2025-10-11,2025-12-08,2025-11-23,C015,Titan Aerospace,PRJ044,Project Compass-44,P05,Treasury & Risk Solutions,Latham & Watkins,Legal Advisory,91400,76400,76400,0,Recovered,0
+E000417,2025-10-17,2025-12-11,2025-12-11,C018,Silverline Insurance,PRJ053,Project Summit-53,P05,Treasury & Risk Solutions,EY,Due Diligence,50500,46400,46400,0,Recovered,0
+E000418,2025-10-17,2025-12-07,2025-12-22,C003,Maple Health Systems,PRJ009,Project Meridian-09,P03,Equity Capital Markets,Latham & Watkins,Legal Advisory,68400,56400,45100,11300,Partially Recovered,15
+E000419,2025-10-10,2025-11-20,2025-11-22,C009,Atlas Logistics,PRJ025,Project Falcon-25,P05,Treasury & Risk Solutions,Datasite,Data Room,10900,9400,6200,3200,Partially Recovered,2
+E000420,2025-10-28,2025-12-13,2025-11-27,C019,Redwood Media,PRJ055,Project Vertex-55,P02,Debt Capital Markets,TravelCo,Travel & Meetings,41800,22300,22300,0,Recovered,0
+E000421,2025-10-16,2025-12-13,2025-11-25,C005,Cascade Consumer Brands,PRJ014,Project Trillium-14,P04,Corporate Lending,Osler,Legal Advisory,47200,38300,38300,0,Recovered,0
+E000422,2025-10-29,2025-12-13,2025-12-26,C015,Titan Aerospace,PRJ043,Project Cedar-43,P04,Corporate Lending,Third Bridge,External Research,39400,22400,19300,3100,Partially Recovered,13
+E000423,2025-10-05,2025-11-22,2026-01-08,C008,Greenfield Renewables,PRJ024,Project Compass-24,P04,Corporate Lending,EY,Due Diligence,72900,57100,19600,37500,Delayed,47
+E000424,2025-10-27,2025-11-26,2025-11-10,C003,Maple Health Systems,PRJ009,Project Meridian-09,P01,M&A Advisory,EY,Due Diligence,30900,26600,26600,0,Recovered,0
+E000425,2025-10-13,2025-12-11,2025-12-08,C001,Northstar Energy,PRJ002,Project Beacon-02,P04,Corporate Lending,Intralinks,Data Room,37700,35300,35300,0,Recovered,0
+E000426,2025-10-18,2025-11-19,,C004,Horizon Telecom,PRJ010,Project Northstar-10,P04,Corporate Lending,LSEG Workspace,Market Data,66300,10700,0,10700,Unrecovered,73
+E000427,2025-10-18,2025-12-15,2025-12-14,C008,Greenfield Renewables,PRJ023,Project Cedar-23,P03,Equity Capital Markets,Intralinks,Data Room,115600,115200,115200,0,Recovered,0
+E000428,2025-10-04,2025-11-29,2025-12-17,C004,Horizon Telecom,PRJ010,Project Northstar-10,P01,M&A Advisory,DataRoom Inc.,Data Room,22000,20900,13500,7400,Partially Recovered,18
+E000429,2025-10-24,2025-12-09,2025-11-30,C024,Pacific Hospitality,PRJ071,Project Orion-71,P03,Equity Capital Markets,Osler,Legal Advisory,22000,19500,19500,0,Recovered,0
+E000430,2025-10-31,2025-12-08,2025-12-06,C002,Aurora Mobility,PRJ005,Project Falcon-05,P04,Corporate Lending,Bloomberg,Market Data,68300,8700,8700,0,Recovered,0
+E000431,2025-10-19,2025-11-20,2025-11-20,C023,Keystone Agriculture,PRJ069,Project Meridian-69,P01,M&A Advisory,Norton Rose Fulbright,Legal Advisory,22800,19300,19300,0,Recovered,0
+E000432,2025-10-21,2025-12-15,2025-11-29,C016,Nova Retail Holdings,PRJ047,Project Juniper-47,P01,M&A Advisory,Guidepoint,External Research,41200,32100,32100,0,Recovered,0
+E000433,2025-10-08,2025-11-30,2025-12-23,C007,BlueWave Infrastructure,PRJ021,Project Aurora-21,P05,Treasury & Risk Solutions,S&P Capital IQ,Market Data,18400,3400,1900,1500,Delayed,23
+E000434,2025-10-08,2025-11-25,2025-11-11,C017,Boreal Resources,PRJ050,Project Northstar-50,P05,Treasury & Risk Solutions,DataRoom Inc.,Data Room,11500,10600,10600,0,Recovered,0
+E000435,2025-10-22,2025-12-07,2025-11-20,C013,Meridian Pharma,PRJ039,Project Cascade-39,P01,M&A Advisory,AlphaSense,External Research,113600,61000,61000,0,Recovered,0
+E000436,2025-10-16,2025-12-07,2026-02-11,C023,Keystone Agriculture,PRJ067,Project Juniper-67,P04,Corporate Lending,EY,Due Diligence,24900,19500,3800,15700,Delayed,66
+E000437,2025-10-31,2025-12-21,2025-12-07,C009,Atlas Logistics,PRJ026,Project Harbour-26,P04,Corporate Lending,Datasite,Data Room,47500,47300,47300,0,Recovered,0
+E000438,2025-10-16,2025-11-24,,C003,Maple Health Systems,PRJ007,Project Juniper-07,P05,Treasury & Risk Solutions,Datasite,Data Room,68200,59300,0,59300,Unrecovered,68
+E000439,2025-10-08,2025-11-25,2025-11-21,C006,Summit Mining,PRJ016,Project Willow-16,P04,Corporate Lending,Guidepoint,External Research,105500,78600,78600,0,Recovered,0
+E000440,2025-10-03,2025-11-27,2025-11-11,C008,Greenfield Renewables,PRJ023,Project Cedar-23,P04,Corporate Lending,Norton Rose Fulbright,Legal Advisory,109700,93000,93000,0,Recovered,0
+E000441,2025-10-11,2025-11-12,2025-12-10,C018,Silverline Insurance,PRJ054,Project Trillium-54,P01,M&A Advisory,Norton Rose Fulbright,Legal Advisory,75900,68600,24600,44000,Delayed,28
+E000442,2025-10-23,2025-12-12,2025-12-08,C019,Redwood Media,PRJ056,Project Willow-56,P04,Corporate Lending,LSEG Workspace,Market Data,35000,10900,10900,0,Recovered,0
+E000443,2025-10-22,2025-12-13,2025-11-27,C023,Keystone Agriculture,PRJ068,Project Maple-68,P05,Treasury & Risk Solutions,Intralinks,Data Room,22600,20600,20600,0,Recovered,0
+E000444,2025-10-12,2025-12-01,2025-11-14,C019,Redwood Media,PRJ057,Project Atlas-57,P04,Corporate Lending,Intralinks,Data Room,51100,43900,43900,0,Recovered,0
+E000445,2025-10-02,2025-11-05,2025-11-01,C014,Harbour Real Estate,PRJ042,Project Beacon-42,P01,M&A Advisory,Osler,Legal Advisory,62300,61200,61200,0,Recovered,0
+E000446,2025-10-07,2025-11-27,2025-11-12,C019,Redwood Media,PRJ055,Project Vertex-55,P02,Debt Capital Markets,Datasite,Data Room,13800,13100,13100,0,Recovered,0
+E000447,2025-10-13,2025-11-16,2025-12-27,C009,Atlas Logistics,PRJ026,Project Harbour-26,P03,Equity Capital Markets,Corporate Travel Services,Travel & Meetings,41000,21000,12200,8800,Delayed,41
+E000448,2025-10-20,2025-12-17,2025-12-01,C015,Titan Aerospace,PRJ043,Project Cedar-43,P03,Equity Capital Markets,Osler,Legal Advisory,34500,32600,32600,0,Recovered,0
+E000449,2025-10-29,2025-11-29,2025-11-19,C005,Cascade Consumer Brands,PRJ015,Project Vertex-15,P05,Treasury & Risk Solutions,Osler,Legal Advisory,81500,80600,80600,0,Recovered,0
+E000450,2025-10-12,2025-11-22,2025-11-08,C001,Northstar Energy,PRJ001,Project Aurora-01,P05,Treasury & Risk Solutions,Osler,Legal Advisory,30900,26300,26300,0,Recovered,0
+E000451,2025-11-29,2026-01-12,2026-01-08,C005,Cascade Consumer Brands,PRJ014,Project Trillium-14,P02,Debt Capital Markets,Deloitte,Due Diligence,33900,32800,32800,0,Recovered,0
+E000452,2025-11-16,2026-01-15,2026-01-05,C021,Trillium Utilities,PRJ063,Project Cedar-63,P02,Debt Capital Markets,Third Bridge,External Research,79000,42400,42400,0,Recovered,0
+E000453,2025-11-20,2025-12-29,2025-12-21,C021,Trillium Utilities,PRJ062,Project Beacon-62,P04,Corporate Lending,TravelCo,Travel & Meetings,81700,39000,39000,0,Recovered,0
+E000454,2025-11-27,2026-01-05,2025-12-24,C012,Evergreen Foods,PRJ034,Project Trillium-34,P04,Corporate Lending,LSEG Workspace,Market Data,53600,8600,8600,0,Recovered,0
+E000455,2025-11-23,2026-01-18,2026-01-10,C016,Nova Retail Holdings,PRJ046,Project Harbour-46,P01,M&A Advisory,LSEG Workspace,Market Data,25700,6200,6200,0,Recovered,0
+E000456,2025-11-12,2025-12-20,2025-12-14,C008,Greenfield Renewables,PRJ023,Project Cedar-23,P04,Corporate Lending,S&P Capital IQ,Market Data,17900,1800,1800,0,Recovered,0
+E000457,2025-11-12,2025-12-12,2025-12-07,C006,Summit Mining,PRJ017,Project Atlas-17,P05,Treasury & Risk Solutions,Corporate Travel Services,Travel & Meetings,116200,59000,59000,0,Recovered,0
+E000458,2025-11-21,2026-01-06,2025-12-29,C001,Northstar Energy,PRJ002,Project Beacon-02,P01,M&A Advisory,Third Bridge,External Research,93600,78200,78200,0,Recovered,0
+E000459,2025-11-03,2025-12-21,,C022,Beacon Education Group,PRJ065,Project Falcon-65,P03,Equity Capital Markets,LSEG Workspace,Market Data,4500,700,0,700,Unrecovered,41
+E000460,2025-11-02,2025-12-03,2025-11-23,C024,Pacific Hospitality,PRJ071,Project Orion-71,P01,M&A Advisory,Deloitte,Due Diligence,46300,38100,38100,0,Recovered,0
+E000461,2025-11-09,2025-12-18,2025-12-05,C007,BlueWave Infrastructure,PRJ019,Project Cascade-19,P01,M&A Advisory,Latham & Watkins,Legal Advisory,109600,93100,93100,0,Recovered,0
+E000462,2025-11-07,2026-01-02,2025-12-22,C012,Evergreen Foods,PRJ035,Project Vertex-35,P05,Treasury & Risk Solutions,PwC,Due Diligence,26000,24500,24500,0,Recovered,0
+E000463,2025-11-26,2026-01-16,2026-03-05,C015,Titan Aerospace,PRJ045,Project Falcon-45,P05,Treasury & Risk Solutions,Intralinks,Data Room,34500,31900,10100,21800,Delayed,48
+E000464,2025-11-12,2025-12-22,2025-12-21,C010,Cedar Financial Group,PRJ029,Project Meridian-29,P05,Treasury & Risk Solutions,PwC,Due Diligence,39000,32700,32700,0,Recovered,0
+E000465,2025-11-15,2026-01-06,2026-03-12,C019,Redwood Media,PRJ056,Project Willow-56,P04,Corporate Lending,Deloitte,Due Diligence,49800,40100,8100,32000,Delayed,65
+E000466,2025-11-24,2026-01-16,2026-02-03,C001,Northstar Energy,PRJ001,Project Aurora-01,P01,M&A Advisory,DataRoom Inc.,Data Room,114100,101500,69100,32400,Partially Recovered,18
+E000467,2025-11-11,2025-12-22,2025-12-19,C019,Redwood Media,PRJ057,Project Atlas-57,P03,Equity Capital Markets,Guidepoint,External Research,4500,3800,3800,0,Recovered,0
+E000468,2025-11-11,2025-12-22,2025-12-09,C006,Summit Mining,PRJ016,Project Willow-16,P05,Treasury & Risk Solutions,TravelCo,Travel & Meetings,50000,20500,20500,0,Recovered,0
+E000469,2025-11-14,2025-12-28,2025-12-19,C014,Harbour Real Estate,PRJ042,Project Beacon-42,P03,Equity Capital Markets,PwC,Due Diligence,73000,66300,66300,0,Recovered,0
+E000470,2025-11-24,2026-01-19,2026-01-12,C005,Cascade Consumer Brands,PRJ015,Project Vertex-15,P03,Equity Capital Markets,Datasite,Data Room,27400,26800,26800,0,Recovered,0
+E000471,2025-11-10,2025-12-28,2026-02-09,C010,Cedar Financial Group,PRJ028,Project Maple-28,P04,Corporate Lending,EY,Due Diligence,44300,44300,14100,30200,Delayed,43
+E000472,2025-11-05,2025-12-20,2025-12-14,C007,BlueWave Infrastructure,PRJ020,Project Glacier-20,P03,Equity Capital Markets,Deloitte,Due Diligence,22600,18900,18900,0,Recovered,0
+E000473,2025-11-05,2025-12-24,2025-12-20,C024,Pacific Hospitality,PRJ072,Project Pioneer-72,P03,Equity Capital Markets,S&P Capital IQ,Market Data,34900,8200,8200,0,Recovered,0
+E000474,2025-11-13,2026-01-04,2025-12-25,C008,Greenfield Renewables,PRJ022,Project Beacon-22,P05,Treasury & Risk Solutions,Bloomberg,Market Data,39400,13100,13100,0,Recovered,0
+E000475,2025-11-25,2026-01-01,2026-01-01,C006,Summit Mining,PRJ017,Project Atlas-17,P03,Equity Capital Markets,Bloomberg,Market Data,99400,26600,26600,0,Recovered,0
+E000476,2025-11-17,2026-01-08,2025-12-27,C009,Atlas Logistics,PRJ027,Project Juniper-27,P05,Treasury & Risk Solutions,TravelCo,Travel & Meetings,7900,4700,4700,0,Recovered,0
+E000477,2025-11-17,2026-01-12,,C014,Harbour Real Estate,PRJ040,Project Glacier-40,P05,Treasury & Risk Solutions,LSEG Workspace,Market Data,77600,24100,0,24100,Unrecovered,19
+E000478,2025-11-18,2025-12-21,,C014,Harbour Real Estate,PRJ040,Project Glacier-40,P02,Debt Capital Markets,Guidepoint,External Research,43100,29100,0,29100,Unrecovered,41
+E000479,2025-11-15,2025-12-27,2025-12-22,C020,Glacier Manufacturing,PRJ059,Project Cascade-59,P05,Treasury & Risk Solutions,LSEG Workspace,Market Data,20300,6300,6300,0,Recovered,0
+E000480,2025-11-09,2025-12-10,2025-12-08,C022,Beacon Education Group,PRJ066,Project Harbour-66,P05,Treasury & Risk Solutions,Guidepoint,External Research,33700,19900,19900,0,Recovered,0
+E000481,2025-11-18,2026-01-17,2026-01-12,C007,BlueWave Infrastructure,PRJ021,Project Aurora-21,P05,Treasury & Risk Solutions,Intralinks,Data Room,20900,19700,19700,0,Recovered,0
+E000482,2025-11-30,2026-01-26,2026-01-13,C005,Cascade Consumer Brands,PRJ014,Project Trillium-14,P03,Equity Capital Markets,S&P Capital IQ,Market Data,56000,16200,16200,0,Recovered,0
+E000483,2025-11-29,2025-12-30,2025-12-30,C007,BlueWave Infrastructure,PRJ021,Project Aurora-21,P02,Debt Capital Markets,TravelCo,Travel & Meetings,66300,39600,39600,0,Recovered,0
+E000484,2025-11-05,2025-12-07,2025-12-01,C010,Cedar Financial Group,PRJ029,Project Meridian-29,P02,Debt Capital Markets,Norton Rose Fulbright,Legal Advisory,62800,55700,55700,0,Recovered,0
+E000485,2025-11-27,2026-01-20,,C006,Summit Mining,PRJ018,Project Boreal-18,P01,M&A Advisory,Osler,Legal Advisory,76200,75200,0,75200,Unrecovered,11
+E000486,2025-11-20,2025-12-27,2026-03-14,C008,Greenfield Renewables,PRJ022,Project Beacon-22,P02,Debt Capital Markets,S&P Capital IQ,Market Data,58100,9400,4400,5000,Delayed,77
+E000487,2025-11-05,2025-12-07,2025-11-30,C002,Aurora Mobility,PRJ004,Project Compass-04,P03,Equity Capital Markets,Osler,Legal Advisory,14900,13000,13000,0,Recovered,0
+E000488,2025-11-09,2026-01-02,2025-12-16,C008,Greenfield Renewables,PRJ022,Project Beacon-22,P03,Equity Capital Markets,AlphaSense,External Research,41400,27500,27500,0,Recovered,0
+E000489,2025-11-18,2026-01-14,2025-12-29,C018,Silverline Insurance,PRJ052,Project Pioneer-52,P02,Debt Capital Markets,EY,Due Diligence,47700,38800,38800,0,Recovered,0
+E000490,2025-11-18,2025-12-23,2025-12-07,C022,Beacon Education Group,PRJ066,Project Harbour-66,P03,Equity Capital Markets,Guidepoint,External Research,19900,13400,13400,0,Recovered,0
+E000491,2025-11-02,2025-12-21,,C020,Glacier Manufacturing,PRJ058,Project Boreal-58,P02,Debt Capital Markets,Norton Rose Fulbright,Legal Advisory,82400,66700,0,66700,Unrecovered,41
+E000492,2025-11-12,2025-12-30,2025-12-12,C006,Summit Mining,PRJ018,Project Boreal-18,P05,Treasury & Risk Solutions,DataRoom Inc.,Data Room,34100,32100,32100,0,Recovered,0
+E000493,2025-11-28,2026-01-14,2026-01-08,C009,Atlas Logistics,PRJ025,Project Falcon-25,P01,M&A Advisory,Norton Rose Fulbright,Legal Advisory,69800,60900,60900,0,Recovered,0
+E000494,2025-11-24,2026-01-01,2025-12-23,C014,Harbour Real Estate,PRJ041,Project Aurora-41,P01,M&A Advisory,KPMG,Due Diligence,39400,31800,31800,0,Recovered,0
+E000495,2025-11-27,2025-12-31,2026-01-19,C005,Cascade Consumer Brands,PRJ015,Project Vertex-15,P01,M&A Advisory,AlphaSense,External Research,44600,34400,21700,12700,Partially Recovered,19
+E000496,2025-12-03,2026-01-13,2026-01-13,C020,Glacier Manufacturing,PRJ060,Project Glacier-60,P02,Debt Capital Markets,TravelCo,Travel & Meetings,13500,4400,4400,0,Recovered,0
+E000497,2025-12-17,2026-01-19,2026-01-06,C002,Aurora Mobility,PRJ004,Project Compass-04,P02,Debt Capital Markets,KPMG,Due Diligence,26300,21200,21200,0,Recovered,0
+E000498,2025-12-16,2026-02-11,2026-02-08,C015,Titan Aerospace,PRJ043,Project Cedar-43,P03,Equity Capital Markets,TravelCo,Travel & Meetings,43100,19000,19000,0,Recovered,0
+E000499,2025-12-30,2026-02-19,2026-02-02,C015,Titan Aerospace,PRJ043,Project Cedar-43,P04,Corporate Lending,Deloitte,Due Diligence,61700,56100,56100,0,Recovered,0
+E000500,2025-12-08,2026-01-22,2026-01-08,C015,Titan Aerospace,PRJ044,Project Compass-44,P03,Equity Capital Markets,Third Bridge,External Research,67800,39600,39600,0,Recovered,0
+E000501,2025-12-30,2026-02-01,2026-01-29,C003,Maple Health Systems,PRJ009,Project Meridian-09,P04,Corporate Lending,AlphaSense,External Research,36100,19700,19700,0,Recovered,0
+E000502,2025-12-01,2026-01-13,,C012,Evergreen Foods,PRJ035,Project Vertex-35,P02,Debt Capital Markets,Corporate Travel Services,Travel & Meetings,19600,11000,0,11000,Unrecovered,18
+E000503,2025-12-03,2026-01-23,2026-01-12,C005,Cascade Consumer Brands,PRJ013,Project Summit-13,P05,Treasury & Risk Solutions,Norton Rose Fulbright,Legal Advisory,49900,46500,46500,0,Recovered,0
+E000504,2025-12-11,2026-01-23,2026-01-18,C021,Trillium Utilities,PRJ063,Project Cedar-63,P04,Corporate Lending,Datasite,Data Room,60400,54400,54400,0,Recovered,0
+E000505,2025-12-25,2026-02-22,2026-02-09,C011,Polar Data Systems,PRJ033,Project Summit-33,P05,Treasury & Risk Solutions,Latham & Watkins,Legal Advisory,4800,4500,4500,0,Recovered,0
+E000506,2025-12-11,2026-02-06,2026-02-01,C022,Beacon Education Group,PRJ064,Project Compass-64,P02,Debt Capital Markets,Intralinks,Data Room,45500,44300,44300,0,Recovered,0
+E000507,2025-12-06,2026-01-30,2026-01-14,C001,Northstar Energy,PRJ001,Project Aurora-01,P02,Debt Capital Markets,Osler,Legal Advisory,43000,37600,37600,0,Recovered,0
+E000508,2025-12-27,2026-01-26,2026-01-14,C008,Greenfield Renewables,PRJ023,Project Cedar-23,P04,Corporate Lending,Corporate Travel Services,Travel & Meetings,97900,51600,51600,0,Recovered,0
+E000509,2025-12-16,2026-02-13,2026-02-08,C007,BlueWave Infrastructure,PRJ019,Project Cascade-19,P01,M&A Advisory,S&P Capital IQ,Market Data,106400,17700,17700,0,Recovered,0
+E000510,2025-12-01,2026-01-01,2026-03-12,C015,Titan Aerospace,PRJ043,Project Cedar-43,P01,M&A Advisory,KPMG,Due Diligence,6100,4900,2800,2100,Delayed,70
+E000511,2025-12-13,2026-01-26,2026-02-16,C016,Nova Retail Holdings,PRJ048,Project Maple-48,P04,Corporate Lending,AlphaSense,External Research,11300,8600,3000,5600,Delayed,21
+E000512,2025-12-03,2026-01-03,2026-01-01,C004,Horizon Telecom,PRJ012,Project Pioneer-12,P05,Treasury & Risk Solutions,DataRoom Inc.,Data Room,101400,97300,97300,0,Recovered,0
+E000513,2025-12-13,2026-01-17,2026-01-02,C014,Harbour Real Estate,PRJ041,Project Aurora-41,P05,Treasury & Risk Solutions,Osler,Legal Advisory,48200,47900,47900,0,Recovered,0
+E000514,2025-12-18,2026-01-21,,C019,Redwood Media,PRJ055,Project Vertex-55,P03,Equity Capital Markets,LSEG Workspace,Market Data,21300,2400,0,2400,Unrecovered,10
+E000515,2025-12-09,2026-01-13,2026-01-27,C014,Harbour Real Estate,PRJ042,Project Beacon-42,P05,Treasury & Risk Solutions,LSEG Workspace,Market Data,8500,2600,1800,800,Partially Recovered,14
+E000516,2025-12-14,2026-01-31,2026-01-15,C013,Meridian Pharma,PRJ039,Project Cascade-39,P04,Corporate Lending,LSEG Workspace,Market Data,29800,6600,6600,0,Recovered,0
+E000517,2025-12-18,2026-01-17,2026-01-17,C004,Horizon Telecom,PRJ011,Project Orion-11,P01,M&A Advisory,Intralinks,Data Room,103000,88100,71200,16900,Partially Recovered,0
+E000518,2025-12-14,2026-01-23,2026-02-07,C016,Nova Retail Holdings,PRJ046,Project Harbour-46,P03,Equity Capital Markets,Datasite,Data Room,16000,15500,8200,7300,Partially Recovered,15
+E000519,2025-12-20,2026-01-28,2026-02-16,C009,Atlas Logistics,PRJ027,Project Juniper-27,P02,Debt Capital Markets,Guidepoint,External Research,76600,54500,44900,9600,Partially Recovered,19
+E000520,2025-12-01,2026-01-10,2025-12-25,C007,BlueWave Infrastructure,PRJ021,Project Aurora-21,P05,Treasury & Risk Solutions,Third Bridge,External Research,28800,18500,18500,0,Recovered,0
+E000521,2025-12-11,2026-02-06,2026-01-30,C021,Trillium Utilities,PRJ063,Project Cedar-63,P03,Equity Capital Markets,S&P Capital IQ,Market Data,21300,4600,4600,0,Recovered,0
+E000522,2025-12-05,2026-01-23,2026-01-18,C012,Evergreen Foods,PRJ034,Project Trillium-34,P02,Debt Capital Markets,Corporate Travel Services,Travel & Meetings,44700,24800,24800,0,Recovered,0
+E000523,2025-12-30,2026-02-26,,C024,Pacific Hospitality,PRJ072,Project Pioneer-72,P02,Debt Capital Markets,Bloomberg,Market Data,51400,10600,0,10600,Unrecovered,0
+E000524,2025-12-29,2026-01-31,2026-01-13,C009,Atlas Logistics,PRJ027,Project Juniper-27,P05,Treasury & Risk Solutions,Third Bridge,External Research,30200,23900,23900,0,Recovered,0
+E000525,2025-12-30,2026-02-04,,C016,Nova Retail Holdings,PRJ047,Project Juniper-47,P05,Treasury & Risk Solutions,DataRoom Inc.,Data Room,8700,8600,0,8600,Unrecovered,0
+E000526,2025-12-08,2026-01-31,2026-01-31,C023,Keystone Agriculture,PRJ068,Project Maple-68,P03,Equity Capital Markets,TravelCo,Travel & Meetings,12100,6200,6200,0,Recovered,0
+E000527,2025-12-31,2026-02-17,2026-05-08,C001,Northstar Energy,PRJ001,Project Aurora-01,P02,Debt Capital Markets,Third Bridge,External Research,93000,69700,25200,44500,Delayed,80
+E000528,2025-12-05,2026-01-14,2026-01-09,C020,Glacier Manufacturing,PRJ060,Project Glacier-60,P03,Equity Capital Markets,EY,Due Diligence,71600,69000,69000,0,Recovered,0
+E000529,2025-12-30,2026-02-10,2026-02-13,C001,Northstar Energy,PRJ002,Project Beacon-02,P01,M&A Advisory,Osler,Legal Advisory,67700,61300,35500,25800,Partially Recovered,3
+E000530,2025-12-27,2026-02-05,,C005,Cascade Consumer Brands,PRJ014,Project Trillium-14,P02,Debt Capital Markets,TravelCo,Travel & Meetings,50900,13800,0,13800,Unrecovered,0
+E000531,2025-12-28,2026-01-29,2026-02-12,C006,Summit Mining,PRJ016,Project Willow-16,P02,Debt Capital Markets,KPMG,Due Diligence,122700,99700,87600,12100,Partially Recovered,14
+E000532,2025-12-03,2026-01-02,2025-12-18,C020,Glacier Manufacturing,PRJ058,Project Boreal-58,P03,Equity Capital Markets,TravelCo,Travel & Meetings,73600,33600,33600,0,Recovered,0
+E000533,2025-12-06,2026-01-26,,C013,Meridian Pharma,PRJ038,Project Boreal-38,P01,M&A Advisory,TravelCo,Travel & Meetings,68100,29000,0,29000,Unrecovered,5
+E000534,2025-12-05,2026-01-26,2026-01-12,C021,Trillium Utilities,PRJ062,Project Beacon-62,P05,Treasury & Risk Solutions,AlphaSense,External Research,14100,8200,8200,0,Recovered,0
+E000535,2025-12-03,2026-01-15,2026-01-02,C021,Trillium Utilities,PRJ061,Project Aurora-61,P04,Corporate Lending,Corporate Travel Services,Travel & Meetings,26900,15300,15300,0,Recovered,0
+E000536,2025-12-25,2026-02-18,2026-03-02,C006,Summit Mining,PRJ016,Project Willow-16,P01,M&A Advisory,LSEG Workspace,Market Data,66600,11300,6700,4600,Partially Recovered,12
+E000537,2025-12-12,2026-01-20,2026-02-22,C010,Cedar Financial Group,PRJ029,Project Meridian-29,P05,Treasury & Risk Solutions,EY,Due Diligence,91500,82200,51400,30800,Delayed,33
+E000538,2025-12-16,2026-02-09,2026-01-28,C017,Boreal Resources,PRJ049,Project Meridian-49,P01,M&A Advisory,KPMG,Due Diligence,85000,68300,68300,0,Recovered,0
+E000539,2025-12-31,2026-02-10,2026-01-28,C013,Meridian Pharma,PRJ037,Project Atlas-37,P03,Equity Capital Markets,TravelCo,Travel & Meetings,13600,5100,5100,0,Recovered,0
+E000540,2025-12-04,2026-01-03,2026-01-02,C014,Harbour Real Estate,PRJ040,Project Glacier-40,P03,Equity Capital Markets,Norton Rose Fulbright,Legal Advisory,39600,34800,34800,0,Recovered,0

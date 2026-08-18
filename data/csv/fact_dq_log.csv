@@ -1,0 +1,121 @@
+Issue_ID,Detected_Date,Source_System,Record_ID,Client_ID,Client,Issue_Type,Issue_Description,Difference_Amount_CAD,Severity,Status,Owner,Resolved_Date
+DQ0001,2025-04-16,Deal Tracking,E000495,C005,Cascade Consumer Brands,Missing Owner,Data owner or accountable business contact is not assigned.,0,Low,Open,Business Management,
+DQ0002,2025-05-18,Management Reporting,PERF-00159,C020,Glacier Manufacturing,Source-System Difference,Values differ across source systems for the same record.,6800,Medium,Resolved,Data Office,2025-05-30
+DQ0003,2025-12-04,Deal Tracking,E000120,C024,Pacific Hospitality,Unreconciled Amount,Reported amount does not reconcile to the general ledger.,43200,Medium,Resolved,Data Office,2026-01-03
+DQ0004,2025-08-08,General Ledger,E000184,C018,Silverline Insurance,Invalid Mapping,"Product, client, or cost-centre mapping is invalid or outdated.",0,Medium,Resolved,Finance Controls,2025-08-29
+DQ0005,2025-02-11,CRM,PERF-01082,C016,Nova Retail Holdings,Unreconciled Amount,Reported amount does not reconcile to the general ledger.,23900,Medium,Resolved,Operations,2025-03-02
+DQ0006,2025-11-05,Management Reporting,E000263,C020,Glacier Manufacturing,Duplicate Row,Potential duplicate record detected using key-field matching.,0,Medium,Open,Product Control,
+DQ0007,2025-04-14,General Ledger,PERF-00048,C015,Titan Aerospace,Unreconciled Amount,Reported amount does not reconcile to the general ledger.,38500,High,Resolved,Product Control,2025-05-14
+DQ0008,2025-07-05,General Ledger,PERF-00235,C006,Summit Mining,Unreconciled Amount,Reported amount does not reconcile to the general ledger.,21800,High,Resolved,Operations,2025-07-20
+DQ0009,2025-03-15,Client Master,PERF-00899,C010,Cedar Financial Group,Duplicate Row,Potential duplicate record detected using key-field matching.,0,Medium,In Remediation,Business Management,
+DQ0010,2025-06-15,Expense Platform,E000477,C022,Beacon Education Group,Missing Definition,Business definition or calculation logic is incomplete.,0,Medium,Open,Data Office,
+DQ0011,2025-11-26,General Ledger,E000221,C021,Trillium Utilities,Invalid Mapping,"Product, client, or cost-centre mapping is invalid or outdated.",0,High,Open,Finance Controls,
+DQ0012,2025-03-17,Expense Platform,PERF-00702,C001,Northstar Energy,Unreconciled Amount,Reported amount does not reconcile to the general ledger.,27400,Medium,Open,Business Management,
+DQ0013,2025-06-05,Client Master,E000376,C002,Aurora Mobility,Duplicate Row,Potential duplicate record detected using key-field matching.,0,High,Resolved,Operations,2025-06-15
+DQ0014,2025-12-19,Expense Platform,E000412,C022,Beacon Education Group,Duplicate Row,Potential duplicate record detected using key-field matching.,0,Medium,Open,Data Office,
+DQ0015,2025-12-24,Deal Tracking,PERF-00982,C003,Maple Health Systems,Unreconciled Amount,Reported amount does not reconcile to the general ledger.,31300,High,Resolved,Operations,2026-01-03
+DQ0016,2025-12-19,General Ledger,E000481,C009,Atlas Logistics,Missing Definition,Business definition or calculation logic is incomplete.,0,Critical,Resolved,Finance Controls,2025-12-24
+DQ0017,2025-10-16,CRM,E000100,C002,Aurora Mobility,Missing Definition,Business definition or calculation logic is incomplete.,0,Low,Resolved,Data Office,2025-11-28
+DQ0018,2025-07-22,Client Master,E000265,C009,Atlas Logistics,Unreconciled Amount,Reported amount does not reconcile to the general ledger.,26500,High,Resolved,Finance Controls,2025-08-11
+DQ0019,2025-01-05,General Ledger,PERF-00542,C012,Evergreen Foods,Missing Definition,Business definition or calculation logic is incomplete.,0,Medium,In Remediation,Business Management,
+DQ0020,2025-12-02,Deal Tracking,E000334,C016,Nova Retail Holdings,Unreconciled Amount,Reported amount does not reconcile to the general ledger.,42600,Medium,Resolved,Product Control,2026-01-15
+DQ0021,2025-08-07,Expense Platform,E000509,C001,Northstar Energy,Missing Definition,Business definition or calculation logic is incomplete.,0,Medium,In Remediation,Finance Controls,
+DQ0022,2025-10-08,Client Master,E000277,C011,Polar Data Systems,Duplicate Row,Potential duplicate record detected using key-field matching.,0,Medium,Open,Product Control,
+DQ0023,2025-04-21,Management Reporting,PERF-00102,C020,Glacier Manufacturing,Source-System Difference,Values differ across source systems for the same record.,37700,Medium,Resolved,Data Office,2025-05-02
+DQ0024,2025-03-16,Client Master,E000188,C001,Northstar Energy,Missing Definition,Business definition or calculation logic is incomplete.,0,Low,Resolved,Operations,2025-03-23
+DQ0025,2025-04-11,Expense Platform,PERF-00991,C011,Polar Data Systems,Source-System Difference,Values differ across source systems for the same record.,33700,Low,Resolved,Finance Controls,2025-04-28
+DQ0026,2025-04-05,Management Reporting,PERF-01430,C020,Glacier Manufacturing,Missing Definition,Business definition or calculation logic is incomplete.,0,Medium,Resolved,Product Control,2025-05-02
+DQ0027,2025-08-11,Management Reporting,E000331,C012,Evergreen Foods,Unreconciled Amount,Reported amount does not reconcile to the general ledger.,3400,Medium,Resolved,Product Control,2025-09-20
+DQ0028,2025-10-01,Client Master,E000442,C011,Polar Data Systems,Unreconciled Amount,Reported amount does not reconcile to the general ledger.,18000,High,Resolved,Data Office,2025-11-11
+DQ0029,2025-12-13,General Ledger,E000116,C005,Cascade Consumer Brands,Duplicate Row,Potential duplicate record detected using key-field matching.,0,Critical,Resolved,Operations,2026-01-23
+DQ0030,2025-02-23,CRM,E000298,C024,Pacific Hospitality,Missing Definition,Business definition or calculation logic is incomplete.,0,High,In Remediation,Operations,
+DQ0031,2025-08-27,Management Reporting,E000416,C023,Keystone Agriculture,Source-System Difference,Values differ across source systems for the same record.,13600,High,Open,Data Office,
+DQ0032,2025-03-24,CRM,PERF-01271,C020,Glacier Manufacturing,Missing Definition,Business definition or calculation logic is incomplete.,0,High,Open,Data Office,
+DQ0033,2025-01-08,Deal Tracking,PERF-00845,C004,Horizon Telecom,Missing Definition,Business definition or calculation logic is incomplete.,0,Medium,Resolved,Operations,2025-01-28
+DQ0034,2025-08-14,CRM,E000341,C007,BlueWave Infrastructure,Source-System Difference,Values differ across source systems for the same record.,10200,High,Resolved,Data Office,2025-09-25
+DQ0035,2025-06-18,CRM,E000509,C011,Polar Data Systems,Source-System Difference,Values differ across source systems for the same record.,1900,Low,Resolved,Product Control,2025-07-05
+DQ0036,2025-11-16,Deal Tracking,E000022,C023,Keystone Agriculture,Unreconciled Amount,Reported amount does not reconcile to the general ledger.,1100,Low,Open,Data Office,
+DQ0037,2025-01-18,Management Reporting,PERF-00700,C019,Redwood Media,Unreconciled Amount,Reported amount does not reconcile to the general ledger.,35600,Low,Open,Finance Controls,
+DQ0038,2025-04-24,General Ledger,E000134,C003,Maple Health Systems,Missing Definition,Business definition or calculation logic is incomplete.,0,High,In Remediation,Finance Controls,
+DQ0039,2025-12-24,Expense Platform,PERF-00142,C001,Northstar Energy,Duplicate Row,Potential duplicate record detected using key-field matching.,0,High,Resolved,Data Office,2026-01-16
+DQ0040,2025-03-12,General Ledger,E000068,C020,Glacier Manufacturing,Duplicate Row,Potential duplicate record detected using key-field matching.,0,Medium,Resolved,Data Office,2025-03-17
+DQ0041,2025-12-01,Deal Tracking,E000161,C023,Keystone Agriculture,Source-System Difference,Values differ across source systems for the same record.,21000,High,Resolved,Data Office,2026-01-09
+DQ0042,2025-07-12,Deal Tracking,PERF-00350,C023,Keystone Agriculture,Source-System Difference,Values differ across source systems for the same record.,41300,Medium,Resolved,Finance Controls,2025-08-12
+DQ0043,2025-12-15,Client Master,E000226,C020,Glacier Manufacturing,Duplicate Row,Potential duplicate record detected using key-field matching.,0,High,Resolved,Finance Controls,2026-01-01
+DQ0044,2025-07-03,Management Reporting,E000296,C014,Harbour Real Estate,Missing Definition,Business definition or calculation logic is incomplete.,0,Medium,In Remediation,Data Office,
+DQ0045,2025-11-09,CRM,E000129,C017,Boreal Resources,Unreconciled Amount,Reported amount does not reconcile to the general ledger.,1300,Medium,Resolved,Finance Controls,2025-12-06
+DQ0046,2025-02-01,Management Reporting,PERF-00530,C023,Keystone Agriculture,Unreconciled Amount,Reported amount does not reconcile to the general ledger.,21900,High,Open,Business Management,
+DQ0047,2025-07-12,Client Master,PERF-00295,C020,Glacier Manufacturing,Missing Definition,Business definition or calculation logic is incomplete.,0,Medium,Resolved,Finance Controls,2025-08-26
+DQ0048,2025-05-14,Expense Platform,E000021,C014,Harbour Real Estate,Missing Owner,Data owner or accountable business contact is not assigned.,0,Medium,Resolved,Operations,2025-05-20
+DQ0049,2025-07-26,Deal Tracking,E000143,C015,Titan Aerospace,Invalid Mapping,"Product, client, or cost-centre mapping is invalid or outdated.",0,Low,Resolved,Data Office,2025-07-30
+DQ0050,2025-10-07,Expense Platform,E000072,C010,Cedar Financial Group,Unreconciled Amount,Reported amount does not reconcile to the general ledger.,33800,Low,In Remediation,Product Control,
+DQ0051,2025-05-09,Client Master,PERF-01086,C010,Cedar Financial Group,Unreconciled Amount,Reported amount does not reconcile to the general ledger.,46700,Medium,Open,Operations,
+DQ0052,2025-05-13,General Ledger,PERF-00703,C005,Cascade Consumer Brands,Duplicate Row,Potential duplicate record detected using key-field matching.,0,High,Resolved,Data Office,2025-06-12
+DQ0053,2025-02-02,Management Reporting,PERF-01244,C003,Maple Health Systems,Duplicate Row,Potential duplicate record detected using key-field matching.,0,Medium,Resolved,Business Management,2025-03-07
+DQ0054,2025-11-24,General Ledger,PERF-00504,C020,Glacier Manufacturing,Duplicate Row,Potential duplicate record detected using key-field matching.,0,Medium,Resolved,Finance Controls,2025-12-26
+DQ0055,2025-11-12,Deal Tracking,PERF-00420,C020,Glacier Manufacturing,Duplicate Row,Potential duplicate record detected using key-field matching.,0,Medium,Resolved,Data Office,2025-12-04
+DQ0056,2025-04-11,Deal Tracking,E000099,C001,Northstar Energy,Duplicate Row,Potential duplicate record detected using key-field matching.,0,Medium,Resolved,Product Control,2025-04-17
+DQ0057,2025-10-06,Expense Platform,E000521,C023,Keystone Agriculture,Invalid Mapping,"Product, client, or cost-centre mapping is invalid or outdated.",0,High,Resolved,Operations,2025-10-21
+DQ0058,2025-10-25,General Ledger,E000149,C022,Beacon Education Group,Source-System Difference,Values differ across source systems for the same record.,45600,Low,Resolved,Product Control,2025-12-09
+DQ0059,2025-06-15,Expense Platform,PERF-00228,C019,Redwood Media,Missing Owner,Data owner or accountable business contact is not assigned.,0,Critical,In Remediation,Product Control,
+DQ0060,2025-04-23,Expense Platform,PERF-00406,C020,Glacier Manufacturing,Missing Owner,Data owner or accountable business contact is not assigned.,0,Medium,In Remediation,Product Control,
+DQ0061,2025-01-26,Management Reporting,E000531,C018,Silverline Insurance,Unreconciled Amount,Reported amount does not reconcile to the general ledger.,25400,Low,In Remediation,Data Office,
+DQ0062,2025-05-27,Deal Tracking,E000261,C005,Cascade Consumer Brands,Source-System Difference,Values differ across source systems for the same record.,37000,High,In Remediation,Data Office,
+DQ0063,2025-05-11,Expense Platform,E000310,C016,Nova Retail Holdings,Invalid Mapping,"Product, client, or cost-centre mapping is invalid or outdated.",0,High,Resolved,Finance Controls,2025-05-17
+DQ0064,2025-09-19,Client Master,E000041,C023,Keystone Agriculture,Duplicate Row,Potential duplicate record detected using key-field matching.,0,Low,Resolved,Data Office,2025-10-02
+DQ0065,2025-05-25,Management Reporting,E000442,C022,Beacon Education Group,Source-System Difference,Values differ across source systems for the same record.,43900,Medium,Open,Finance Controls,
+DQ0066,2025-02-07,Deal Tracking,PERF-00741,C013,Meridian Pharma,Missing Definition,Business definition or calculation logic is incomplete.,0,Low,Resolved,Finance Controls,2025-02-16
+DQ0067,2025-06-22,CRM,PERF-00129,C018,Silverline Insurance,Missing Definition,Business definition or calculation logic is incomplete.,0,Low,Open,Business Management,
+DQ0068,2025-06-21,Expense Platform,E000035,C020,Glacier Manufacturing,Source-System Difference,Values differ across source systems for the same record.,4100,Medium,In Remediation,Finance Controls,
+DQ0069,2025-10-07,CRM,E000482,C012,Evergreen Foods,Unreconciled Amount,Reported amount does not reconcile to the general ledger.,36600,Low,In Remediation,Operations,
+DQ0070,2025-07-13,CRM,E000467,C023,Keystone Agriculture,Missing Definition,Business definition or calculation logic is incomplete.,0,High,Resolved,Finance Controls,2025-07-27
+DQ0071,2025-03-23,Management Reporting,E000114,C005,Cascade Consumer Brands,Missing Owner,Data owner or accountable business contact is not assigned.,0,Medium,Resolved,Data Office,2025-04-11
+DQ0072,2025-03-26,CRM,E000473,C013,Meridian Pharma,Invalid Mapping,"Product, client, or cost-centre mapping is invalid or outdated.",0,Medium,Resolved,Product Control,2025-05-05
+DQ0073,2025-06-15,CRM,E000131,C019,Redwood Media,Missing Definition,Business definition or calculation logic is incomplete.,0,High,Resolved,Product Control,2025-07-04
+DQ0074,2025-05-12,Expense Platform,PERF-00344,C019,Redwood Media,Unreconciled Amount,Reported amount does not reconcile to the general ledger.,8300,Critical,In Remediation,Finance Controls,
+DQ0075,2025-06-10,General Ledger,PERF-01169,C017,Boreal Resources,Missing Owner,Data owner or accountable business contact is not assigned.,0,Low,Resolved,Finance Controls,2025-06-20
+DQ0076,2025-07-14,Management Reporting,E000053,C003,Maple Health Systems,Source-System Difference,Values differ across source systems for the same record.,34500,Low,In Remediation,Operations,
+DQ0077,2025-01-23,Client Master,PERF-01019,C014,Harbour Real Estate,Missing Definition,Business definition or calculation logic is incomplete.,0,Low,In Remediation,Data Office,
+DQ0078,2025-12-02,Client Master,E000340,C024,Pacific Hospitality,Invalid Mapping,"Product, client, or cost-centre mapping is invalid or outdated.",0,Medium,In Remediation,Product Control,
+DQ0079,2025-12-12,Deal Tracking,PERF-01317,C014,Harbour Real Estate,Duplicate Row,Potential duplicate record detected using key-field matching.,0,Critical,Resolved,Finance Controls,2026-01-18
+DQ0080,2025-08-21,Expense Platform,E000159,C017,Boreal Resources,Source-System Difference,Values differ across source systems for the same record.,12500,Medium,Open,Operations,
+DQ0081,2025-08-23,Deal Tracking,PERF-00177,C018,Silverline Insurance,Missing Owner,Data owner or accountable business contact is not assigned.,0,Low,Resolved,Business Management,2025-10-04
+DQ0082,2025-03-09,General Ledger,PERF-00422,C021,Trillium Utilities,Duplicate Row,Potential duplicate record detected using key-field matching.,0,Medium,Resolved,Product Control,2025-04-23
+DQ0083,2025-05-21,Management Reporting,E000332,C017,Boreal Resources,Missing Owner,Data owner or accountable business contact is not assigned.,0,Medium,In Remediation,Finance Controls,
+DQ0084,2025-08-14,Deal Tracking,PERF-00328,C017,Boreal Resources,Unreconciled Amount,Reported amount does not reconcile to the general ledger.,12700,Critical,In Remediation,Business Management,
+DQ0085,2025-12-27,CRM,PERF-00010,C004,Horizon Telecom,Source-System Difference,Values differ across source systems for the same record.,17000,Medium,Open,Operations,
+DQ0086,2025-04-23,Expense Platform,E000178,C002,Aurora Mobility,Missing Owner,Data owner or accountable business contact is not assigned.,0,Medium,Open,Data Office,
+DQ0087,2025-02-24,CRM,PERF-01137,C011,Polar Data Systems,Duplicate Row,Potential duplicate record detected using key-field matching.,0,Medium,Resolved,Business Management,2025-03-04
+DQ0088,2025-09-20,General Ledger,PERF-00219,C008,Greenfield Renewables,Duplicate Row,Potential duplicate record detected using key-field matching.,0,Medium,Resolved,Product Control,2025-11-03
+DQ0089,2025-12-14,Deal Tracking,PERF-00059,C014,Harbour Real Estate,Missing Owner,Data owner or accountable business contact is not assigned.,0,Medium,Resolved,Data Office,2025-12-18
+DQ0090,2025-12-04,General Ledger,PERF-01179,C016,Nova Retail Holdings,Invalid Mapping,"Product, client, or cost-centre mapping is invalid or outdated.",0,High,Resolved,Finance Controls,2025-12-07
+DQ0091,2025-11-06,Deal Tracking,E000235,C001,Northstar Energy,Missing Definition,Business definition or calculation logic is incomplete.,0,Medium,Resolved,Business Management,2025-12-08
+DQ0092,2025-05-24,Management Reporting,E000054,C019,Redwood Media,Invalid Mapping,"Product, client, or cost-centre mapping is invalid or outdated.",0,High,In Remediation,Data Office,
+DQ0093,2025-08-20,Management Reporting,E000507,C001,Northstar Energy,Missing Definition,Business definition or calculation logic is incomplete.,0,High,Resolved,Operations,2025-09-19
+DQ0094,2025-02-13,CRM,E000220,C017,Boreal Resources,Missing Definition,Business definition or calculation logic is incomplete.,0,Low,Resolved,Data Office,2025-02-18
+DQ0095,2025-03-09,CRM,E000232,C006,Summit Mining,Unreconciled Amount,Reported amount does not reconcile to the general ledger.,43500,High,In Remediation,Data Office,
+DQ0096,2025-11-26,Client Master,E000345,C006,Summit Mining,Invalid Mapping,"Product, client, or cost-centre mapping is invalid or outdated.",0,High,Resolved,Operations,2025-12-21
+DQ0097,2025-09-05,Management Reporting,PERF-01279,C002,Aurora Mobility,Unreconciled Amount,Reported amount does not reconcile to the general ledger.,23700,Low,Resolved,Product Control,2025-10-03
+DQ0098,2025-10-01,General Ledger,PERF-00529,C023,Keystone Agriculture,Missing Definition,Business definition or calculation logic is incomplete.,0,Critical,Open,Operations,
+DQ0099,2025-10-26,General Ledger,PERF-00730,C019,Redwood Media,Invalid Mapping,"Product, client, or cost-centre mapping is invalid or outdated.",0,Medium,Open,Business Management,
+DQ0100,2025-03-14,Management Reporting,PERF-00233,C006,Summit Mining,Source-System Difference,Values differ across source systems for the same record.,44100,Medium,Open,Finance Controls,
+DQ0101,2025-12-12,CRM,E000384,C009,Atlas Logistics,Source-System Difference,Values differ across source systems for the same record.,32300,Medium,Open,Data Office,
+DQ0102,2025-10-23,General Ledger,E000516,C012,Evergreen Foods,Missing Definition,Business definition or calculation logic is incomplete.,0,Low,Resolved,Business Management,2025-10-31
+DQ0103,2025-03-18,CRM,PERF-01416,C004,Horizon Telecom,Source-System Difference,Values differ across source systems for the same record.,41200,Medium,Resolved,Business Management,2025-04-06
+DQ0104,2025-06-09,Expense Platform,PERF-00640,C020,Glacier Manufacturing,Invalid Mapping,"Product, client, or cost-centre mapping is invalid or outdated.",0,Medium,Resolved,Data Office,2025-07-07
+DQ0105,2025-07-10,Management Reporting,PERF-00371,C023,Keystone Agriculture,Missing Owner,Data owner or accountable business contact is not assigned.,0,Medium,Resolved,Operations,2025-07-31
+DQ0106,2025-02-09,CRM,PERF-01397,C016,Nova Retail Holdings,Unreconciled Amount,Reported amount does not reconcile to the general ledger.,37200,Critical,Resolved,Product Control,2025-03-18
+DQ0107,2025-12-04,CRM,PERF-00486,C014,Harbour Real Estate,Invalid Mapping,"Product, client, or cost-centre mapping is invalid or outdated.",0,Low,Resolved,Operations,2026-01-11
+DQ0108,2025-04-16,Deal Tracking,PERF-01218,C001,Northstar Energy,Missing Owner,Data owner or accountable business contact is not assigned.,0,Low,Open,Finance Controls,
+DQ0109,2025-03-10,Management Reporting,PERF-00889,C015,Titan Aerospace,Invalid Mapping,"Product, client, or cost-centre mapping is invalid or outdated.",0,Medium,Resolved,Data Office,2025-03-21
+DQ0110,2025-04-01,General Ledger,PERF-00593,C005,Cascade Consumer Brands,Duplicate Row,Potential duplicate record detected using key-field matching.,0,Medium,Open,Product Control,
+DQ0111,2025-08-08,Client Master,E000410,C022,Beacon Education Group,Missing Owner,Data owner or accountable business contact is not assigned.,0,Low,Resolved,Finance Controls,2025-08-30
+DQ0112,2025-02-07,Expense Platform,PERF-01036,C020,Glacier Manufacturing,Missing Owner,Data owner or accountable business contact is not assigned.,0,Low,In Remediation,Finance Controls,
+DQ0113,2025-12-15,CRM,PERF-00764,C020,Glacier Manufacturing,Unreconciled Amount,Reported amount does not reconcile to the general ledger.,9200,Low,Resolved,Product Control,2026-01-16
+DQ0114,2025-12-10,Expense Platform,PERF-00915,C006,Summit Mining,Unreconciled Amount,Reported amount does not reconcile to the general ledger.,27000,High,Resolved,Product Control,2025-12-17
+DQ0115,2025-10-16,General Ledger,E000041,C013,Meridian Pharma,Missing Definition,Business definition or calculation logic is incomplete.,0,Medium,Resolved,Data Office,2025-11-17
+DQ0116,2025-12-25,Expense Platform,PERF-00692,C005,Cascade Consumer Brands,Invalid Mapping,"Product, client, or cost-centre mapping is invalid or outdated.",0,Medium,Open,Data Office,
+DQ0117,2025-11-21,Client Master,PERF-00663,C006,Summit Mining,Source-System Difference,Values differ across source systems for the same record.,46400,High,Open,Operations,
+DQ0118,2025-10-07,CRM,E000223,C017,Boreal Resources,Missing Owner,Data owner or accountable business contact is not assigned.,0,Low,In Remediation,Product Control,
+DQ0119,2025-12-06,CRM,E000201,C023,Keystone Agriculture,Missing Definition,Business definition or calculation logic is incomplete.,0,High,Resolved,Business Management,2025-12-13
+DQ0120,2025-06-18,Deal Tracking,PERF-00234,C022,Beacon Education Group,Source-System Difference,Values differ across source systems for the same record.,2000,Low,Resolved,Data Office,2025-07-19

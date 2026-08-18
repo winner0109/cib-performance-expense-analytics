@@ -1,0 +1,65 @@
+Table,Column,Data_Type,Unit,Business_Definition,Primary_Use
+Fact_Performance,Month_Start,Date,Date,First day of the reporting month.,Time trends and slicers
+Fact_Performance,Client_ID,Text,N/A,Synthetic unique client identifier.,Relationships
+Fact_Performance,Client,Text,N/A,Synthetic client name.,Client economics
+Fact_Performance,Product_ID,Text,N/A,Synthetic unique product identifier.,Relationships
+Fact_Performance,Product,Text,N/A,CIB product or service category.,Product economics
+Fact_Performance,Region,Text,N/A,Primary client coverage region.,Regional performance
+Fact_Performance,Banker_ID,Text,N/A,Synthetic banker identifier.,Relationships
+Fact_Performance,Banker,Text,N/A,Synthetic relationship banker name.,Banker analysis
+Fact_Performance,Revenue_CAD,Whole number,CAD,Actual recognized revenue for the month.,Revenue and profitability
+Fact_Performance,Planned_Revenue_CAD,Whole number,CAD,Management revenue plan for the month.,Variance to plan
+Fact_Performance,Direct_Expense_CAD,Whole number,CAD,Direct expense attributable to the activity.,Expense and profitability
+Fact_Performance,Allocated_Expense_CAD,Whole number,CAD,Shared expense allocated to the activity.,Expense and profitability
+Fact_Performance,Recovered_Expense_CAD,Whole number,CAD,Direct expense recovered from the client.,High-level recovery context
+Fact_Performance,Capital_CAD,Whole number,CAD,Synthetic capital allocated to support the activity.,Capital efficiency
+Fact_Performance,Transaction_Count,Whole number,Count,Number of transactions in the month.,Volume analysis
+Fact_Expense_Recovery,Expense_ID,Text,N/A,Unique synthetic expense record identifier.,Expense detail
+Fact_Expense_Recovery,Expense_Date,Date,Date,Date on which the expense was incurred.,Expense trend
+Fact_Expense_Recovery,Recovery_Due_Date,Date,Date,Date by which recovery is expected.,Delayed recovery
+Fact_Expense_Recovery,Recovery_Date,Date,Date,Date recovery was recorded; blank if unrecovered.,Delayed recovery
+Fact_Expense_Recovery,Client_ID,Text,N/A,Synthetic client identifier.,Relationships
+Fact_Expense_Recovery,Client,Text,N/A,Synthetic client name.,Leakage by client
+Fact_Expense_Recovery,Project_ID,Text,N/A,Unique synthetic project identifier.,Leakage by project
+Fact_Expense_Recovery,Project,Text,N/A,Synthetic project name.,Leakage by project
+Fact_Expense_Recovery,Product_ID,Text,N/A,Synthetic product identifier.,Relationships
+Fact_Expense_Recovery,Product,Text,N/A,CIB product associated with the expense.,Product recovery
+Fact_Expense_Recovery,Vendor,Text,N/A,Synthetic external vendor or provider.,Leakage by vendor
+Fact_Expense_Recovery,Expense_Type,Text,N/A,Expense classification.,Recovery analysis
+Fact_Expense_Recovery,Incurred_Expense_CAD,Whole number,CAD,Gross expense incurred.,Incurred expense
+Fact_Expense_Recovery,Recoverable_Expense_CAD,Whole number,CAD,Portion eligible for client recovery.,Recovery denominator
+Fact_Expense_Recovery,Recovered_Expense_CAD,Whole number,CAD,Amount recovered as of the reporting date.,Recovered expense
+Fact_Expense_Recovery,Unrecovered_Expense_CAD,Whole number,CAD,Recoverable amount not yet recovered.,Leakage
+Fact_Expense_Recovery,Recovery_Status,Text,N/A,"Recovered, partially recovered, delayed, or unrecovered.",Status analysis
+Fact_Expense_Recovery,Days_Delayed,Whole number,Days,Days recovery occurred after due date or remained overdue.,Delayed recovery
+Fact_DQ_Log,Issue_ID,Text,N/A,Unique synthetic data-quality issue identifier.,Issue detail
+Fact_DQ_Log,Detected_Date,Date,Date,Date the issue was detected.,DQ trend
+Fact_DQ_Log,Source_System,Text,N/A,System in which the issue originated or was observed.,Source-system differences
+Fact_DQ_Log,Record_ID,Text,N/A,Affected synthetic record identifier.,Traceability
+Fact_DQ_Log,Client_ID,Text,N/A,Synthetic client identifier.,Relationships
+Fact_DQ_Log,Client,Text,N/A,Synthetic client name.,DQ by client
+Fact_DQ_Log,Issue_Type,Text,N/A,Classification of the data-quality issue.,Issue mix
+Fact_DQ_Log,Issue_Description,Text,N/A,Standardized issue description.,Issue detail
+Fact_DQ_Log,Difference_Amount_CAD,Whole number,CAD,Financial difference associated with the issue.,Unreconciled amount
+Fact_DQ_Log,Severity,Text,N/A,"Critical, High, Medium, or Low.",Management prioritization
+Fact_DQ_Log,Status,Text,N/A,"Open, In Remediation, or Resolved.",DQ status
+Fact_DQ_Log,Owner,Text,N/A,Accountable remediation team.,Ownership
+Fact_DQ_Log,Resolved_Date,Date,Date,Date issue was resolved; blank if outstanding.,Resolution analysis
+Dim_Date,Month_Start,Date,Date,Reporting month key.,Relationships and slicers
+Dim_Date,Month_Label,Text,N/A,Display label for the month.,Visual labels
+Dim_Date,Month_Sort,Whole number,YYYYMM,Numeric month sort key.,Sorting
+Dim_Date,Year,Whole number,Year,Calendar year.,Slicers
+Dim_Date,Quarter,Text,N/A,Calendar quarter.,Slicers
+Dim_Date,Month_Number,Whole number,Month,Calendar month number.,Sorting
+Dim_Client,Client_ID,Text,N/A,Unique client identifier.,Relationships
+Dim_Client,Client,Text,N/A,Synthetic client name.,Client analysis
+Dim_Client,Sector,Text,N/A,Client industry sector.,Segment analysis
+Dim_Client,Client_Tier,Text,N/A,Synthetic client tier.,Concentration analysis
+Dim_Client,Home_Region,Text,N/A,Primary client region.,Regional analysis
+Dim_Product,Product_ID,Text,N/A,Unique product identifier.,Relationships
+Dim_Product,Product,Text,N/A,CIB product name.,Product analysis
+Dim_Product,Product_Group,Text,N/A,Higher-level product grouping.,Segment analysis
+Dim_Banker,Banker_ID,Text,N/A,Unique banker identifier.,Relationships
+Dim_Banker,Banker,Text,N/A,Synthetic banker name.,Banker analysis
+Dim_Banker,Banker_Region,Text,N/A,Primary coverage region.,Regional analysis
+Dim_Banker,Seniority,Text,N/A,Synthetic seniority level.,Coverage analysis
